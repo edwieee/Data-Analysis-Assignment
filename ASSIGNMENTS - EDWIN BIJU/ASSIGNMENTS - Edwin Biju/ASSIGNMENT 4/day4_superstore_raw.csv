@@ -1,0 +1,1004 @@
+Order_ID,Order_Date,Segment,Region,State,City,Category,Subcategory,Product,Quantity,Sales,Discount,Profit
+ORD-00001,2025-11-10,Consumer,South,New York,Atlanta,Technology,Copiers,USB Hub,7,679.83,0.0,105.8
+ORD-00002,2025-03-16,Corporate,East,Georgia,Miami,Technology,Accessories,USB Hub,2,289.1,0.0,34.68
+ORD-00003,2023-07-09,Home Office,South,Washington,Houston,Furniture,Chairs,Wooden Bookcase,3,586.04,0.3,-0.96
+ORD-00004,2023-11-12,Consumer,South,Texas,Miami,Technology,Phones,Smartphone,2,590.42,0.0,60.88
+ORD-00005,2025-10-22,Corporate,West,Washington,New York City,Technology,Copiers,USB Hub,6,327.75,0.1,1.67
+ORD-00006,2024-03-31,Home Office,East,Washington,Atlanta,Office Supplies,Paper,Marker Set,7,790.83,0.3,80.78
+ORD-00007,2025-11-30,Consumer,Central,Florida,Miami,Technology,Phones,Wireless Keyboard,1,43.14,0.1,5.01
+ORD-00008,2023-10-16,Home Office,Central,Georgia,New York City,Technology,Machines,Laser Printer,5,1390.93,0.15,252.72
+ORD-00009,2025-08-18,Corporate,South,Florida,Atlanta,Office Supplies,Binders,Address Labels,3,197.0,0.15,33.07
+ORD-00010,2025-06-10,Corporate,Central,Washington,Seattle,Technology,Accessories,Laser Printer,3,66.52,0.15,4.6
+ORD-00011,2024-07-31,Consumer,South,New York,Chicago,Office Supplies,Labels,Address Labels,10,1216.02,0.15,213.0
+ORD-00012,2023-07-09,Home Office,South,Florida,Los Angeles,Office Supplies,Storage,Copy Paper,1,422.76,0.15,3.67
+ORD-00013,2024-11-14,Consumer,Central,Ohio,Chicago,Technology,Machines,Laser Printer,8,1415.51,0.05,207.72
+ORD-00014,2025-08-09,Corporate,East,Florida,Miami,Furniture,Tables,Office Chair,1,414.84,0.3,45.46
+ORD-00015,2023-09-04,Corporate,East,Texas,Chicago,Furniture,Chairs,Wooden Bookcase,4,139.66,0.05,11.26
+ORD-00016,2025-01-21,Home Office,East,Ohio,New York City,Furniture,Furnishings,Conference Table,1,243.06,0.1,38.19
+ORD-00017,2025-05-13,Home Office,East,New York,Seattle,Technology,Copiers,Laser Printer,7,278.06,0.15,14.93
+ORD-00018,2023-09-20,Home Office,Central,California,Houston,Furniture,Bookcases,Desk Lamp,10,1473.61,0.1,73.94
+ORD-00019,2023-01-09,Home Office,Central,Georgia,New York City,Office Supplies,Art,Address Labels,9,536.83,0.15,93.84
+ORD-00020,2023-04-14,Corporate,South,California,Atlanta,Furniture,Furnishings,Desk Lamp,4,879.42,0.05,208.33
+ORD-00021,2023-06-10,Consumer,East,New York,Atlanta,Office Supplies,Paper,Copy Paper,4,371.13,0.05,74.39
+ORD-00022,2024-04-14,Home Office,West,California,Atlanta,Technology,Machines,Smartphone,7,390.68,0.1,94.08
+ORD-00023,2025-08-17,Home Office,Central,Ohio,Los Angeles,Technology,Machines,Wireless Keyboard,1,308.96,0.15,30.2
+ORD-00024,2025-12-05,Consumer,West,Florida,Columbus,Furniture,Furnishings,Office Chair,5,1327.57,0.15,304.54
+ORD-00025,2023-09-10,Home Office,West,California,Miami,Office Supplies,Labels,Storage Box,5,302.55,,44.56
+ORD-00026,2025-05-03,Corporate,West,Ohio,Atlanta,Office Supplies,Paper,Storage Box,7,227.32,0.1,46.55
+ORD-00027,2025-01-28,Consumer,East,Georgia,Seattle,Furniture,Chairs,Wooden Bookcase,10,1218.97,0.2,230.28
+ORD-00028,2024-02-04,Corporate,West,California,Atlanta,Furniture,Furnishings,Office Chair,3,520.23,0.05,27.13
+ORD-00029,2023-05-30,Consumer,East,Washington,Columbus,Office Supplies,Storage,Ring Binder,10,1293.4,0.05,59.95
+ORD-00030,2025-02-12,Consumer,Central,Georgia,Chicago,Technology,Copiers,USB Hub,4,628.8,0.15,35.76
+ORD-00031,2025-12-17,Home Office,East,New York,Los Angeles,Office Supplies,Art,Copy Paper,7,391.27,0.0,26.84
+ORD-00032,2024-07-13,Corporate,East,California,Seattle,Furniture,Chairs,Conference Table,9,997.09,0.05,245.46
+ORD-00033,2025-09-23,Corporate,South,New York,Miami,Technology,Phones,USB Hub,6,41.3,0.0,2.5
+ORD-00034,2024-03-07,Corporate,West,Georgia,Houston,Office Supplies,Art,Address Labels,5,720.74,0.0,107.96
+ORD-00035,2025-01-31,Corporate,East,Florida,Seattle,Office Supplies,Labels,Marker Set,3,764.64,0.2,126.32
+ORD-00036,2025-05-01,Home Office,West,Georgia,Atlanta,Technology,Accessories,Smartphone,8,1022.21,0.1,29.64
+ORD-00037,2025-12-02,Corporate,South,California,Los Angeles,Technology,Phones,Photocopier,2,77.67,0.15,4.91
+ORD-00038,2024-09-08,Home Office,East,Ohio,Houston,Furniture,Tables,Conference Table,7,194.88,0.15,22.19
+ORD-00039,2024-04-01,Consumer,Central,Florida,Houston,Furniture,Chairs,Office Chair,8,1214.12,0.3,71.75
+ORD-00040,2023-10-06,Consumer,West,California,Seattle,Technology,Copiers,USB Hub,9,372.59,0.05,57.93
+ORD-00041,2023-03-17,Consumer,South,New York,Los Angeles,Furniture,Tables,Office Chair,9,492.58,0.3,75.18
+ORD-00042,2025-08-05,Consumer,Central,New York,Miami,Technology,Copiers,USB Hub,5,1133.51,0.2,229.53
+ORD-00043,2023-08-23,Consumer,Central,New York,Seattle,Office Supplies,Paper,Copy Paper,2,1453.6,0.15,236.19
+ORD-00044,2023-01-29,Corporate,Central,Texas,New York City,Office Supplies,Labels,Copy Paper,5,365.18,0.1,71.03
+ORD-00045,2024-03-20,Corporate,Central,Illinois,Miami,Furniture,Bookcases,Wooden Bookcase,6,1063.52,0.0,133.96
+ORD-00046,2025-06-13,Consumer,West,Ohio,Houston,Furniture,Chairs,Conference Table,9,1121.43,0.15,66.85
+ORD-00047,2023-02-27,Corporate,Central,Ohio,Chicago,Furniture,Chairs,Desk Lamp,5,84.23,0.3,16.29
+ORD-00048,2024-10-17,Consumer,East,Washington,Los Angeles,Technology,Copiers,Smartphone,7,87.26,0.05,21.06
+ORD-00049,2024-06-23,Corporate,West,Florida,Houston,Furniture,Furnishings,Conference Table,5,1462.1,0.3,146.45
+ORD-00050,2025-06-27,Consumer,Central,Florida,Atlanta,Furniture,Chairs,Desk Lamp,3,1237.36,0.3,117.43
+ORD-00051,2025-10-12,Home Office,South,Illinois,Chicago,Office Supplies,Paper,Copy Paper,1,1170.85,0.1,290.11
+ORD-00052,2023-04-15,Consumer,South,California,Chicago,Office Supplies,Binders,Storage Box,3,218.1,0.0,14.69
+ORD-00053,2025-09-23,Home Office,East,New York,Chicago,Furniture,Bookcases,Office Chair,5,1418.25,0.2,59.33
+ORD-00054,2024-03-24,Corporate,Central,Illinois,Miami,Office Supplies,Binders,Storage Box,1,1140.36,0.0,127.49
+ORD-00055,2025-12-13,Consumer,South,Texas,Miami,Office Supplies,Paper,Storage Box,5,150.84,0.2,17.75
+ORD-00056,2024-03-10,Home Office,Central,Ohio,Houston,Technology,Machines,USB Hub,7,221.83,0.0,28.98
+ORD-00057,2023-06-15,Consumer,South,Texas,Miami,Office Supplies,Storage,Storage Box,1,1179.81,0.05,196.46
+ORD-00058,2025-02-23,Corporate,East,Georgia,Los Angeles,Furniture,Chairs,Desk Lamp,4,699.52,0.3,58.75
+ORD-00059,2025-04-27,Home Office,South,Washington,Los Angeles,Technology,Machines,Laser Printer,6,1052.55,0.0,221.24
+ORD-00060,2025-12-10,Corporate,West,Texas,Chicago,Technology,Machines,USB Hub,3,1236.25,0.05,153.49
+ORD-00061,2024-06-29,Corporate,Central,Florida,Houston,Office Supplies,Binders,Address Labels,1,765.06,0.15,-12.18
+ORD-00062,2023-02-17,Home Office,West,Ohio,New York City,Furniture,Tables,Wooden Bookcase,1,429.78,0.2,78.93
+ORD-00063,2023-12-31,Corporate,West,Washington,Columbus,Technology,Machines,Wireless Keyboard,10,74.29,0.05,13.87
+ORD-00064,2025-01-08,Corporate,Central,Texas,Houston,Office Supplies,Storage,Marker Set,3,378.86,0.05,49.73
+ORD-00065,2023-05-25,Consumer,East,Texas,Columbus,Furniture,Chairs,Wooden Bookcase,4,721.48,0.05,131.48
+ORD-00066,2025-01-17,Consumer,South,Georgia,Atlanta,Technology,Accessories,Wireless Keyboard,3,580.58,0.05,137.44
+ORD-00067,2024-10-23,Consumer,Central,Ohio,Chicago,Technology,Copiers,Laser Printer,5,246.23,0.0,21.41
+ORD-00068,2024-07-01,Consumer,South,Washington,Atlanta,Office Supplies,Binders,Storage Box,8,185.82,0.05,45.77
+ORD-00069,2024-12-15,Home Office,East,California,Houston,Office Supplies,Binders,Storage Box,8,725.4,0.2,-14.24
+ORD-00070,2023-01-01,Home Office,West,California,Miami,Technology,Copiers,Smartphone,10,1156.31,0.0,192.41
+ORD-00071,2023-09-18,Corporate,Central,Ohio,Houston,Furniture,Bookcases,Wooden Bookcase,7,832.4,0.0,172.68
+ORD-00072,2023-11-14,Home Office,Central,California,New York City,Technology,Phones,Smartphone,2,203.96,0.15,48.38
+ORD-00073,2025-05-22,Home Office,West,Illinois,Atlanta,Technology,Phones,Photocopier,5,318.41,0.0,27.95
+ORD-00074,2025-12-01,Consumer,East,Florida,Los Angeles,Technology,Accessories,Wireless Keyboard,9,1030.81,0.1,164.09
+ORD-00075,2024-10-26,Consumer,South,Washington,Seattle,Furniture,Tables,Office Chair,1,1351.37,0.05,199.13
+ORD-00076,2024-07-07,Home Office,East,Ohio,New York City,Technology,Machines,Laser Printer,4,1195.16,0.15,108.35
+ORD-00077,2025-08-08,Home Office,Central,Illinois,Chicago,Furniture,Tables,Office Chair,1,69.63,0.1,11.94
+ORD-00078,2023-08-04,Consumer,Central,Washington,Seattle,Furniture,Tables,Conference Table,4,607.99,0.2,25.27
+ORD-00079,2023-03-10,Corporate,South,New York,New York City,Furniture,Tables,Wooden Bookcase,4,288.76,0.3,27.16
+ORD-00080,2025-09-11,Corporate,West,Texas,Chicago,Technology,Accessories,Laser Printer,1,46.8,0.2,8.79
+ORD-00081,2024-08-26,Consumer,West,Washington,Houston,Furniture,Furnishings,Office Chair,10,122.0,0.0,9.03
+ORD-00082,2024-02-24,Corporate,East,Illinois,Chicago,Technology,Machines,Smartphone,6,1259.49,0.05,139.74
+ORD-00083,2023-04-27,Consumer,Central,California,Houston,Technology,Phones,Smartphone,10,513.58,0.05,74.78
+ORD-00084,2025-08-12,Home Office,East,New York,Los Angeles,Office Supplies,Paper,Storage Box,3,387.38,0.1,29.59
+ORD-00085,2023-06-05,Corporate,South,New York,Columbus,Furniture,Chairs,Office Chair,2,1002.04,0.0,271.6
+ORD-00086,2025-09-16,Consumer,West,California,Seattle,Office Supplies,Art,Address Labels,7,651.65,0.2,41.4
+ORD-00087,2023-01-18,Home Office,East,Georgia,Atlanta,Furniture,Chairs,Office Chair,1,1167.78,0.1,161.82
+ORD-00088,2025-03-10,Home Office,Central,Georgia,Chicago,Office Supplies,Storage,Marker Set,10,420.7,0.15,53.47
+ORD-00089,2024-03-18,Home Office,Central,Washington,New York City,Office Supplies,Labels,Ring Binder,8,174.08,0.2,1.01
+ORD-00090,2025-03-24,Corporate,South,Georgia,Atlanta,Technology,Copiers,Wireless Keyboard,4,1417.73,0.0,203.4
+ORD-00091,2025-07-03,Consumer,South,Illinois,New York City,Office Supplies,Paper,Ring Binder,4,971.53,0.15,191.96
+ORD-00092,2025-03-15,Consumer,South,Washington,Seattle,Technology,Accessories,Wireless Keyboard,6,1165.28,0.05,276.82
+ORD-00093,2023-05-08,Home Office,East,Ohio,Atlanta,Office Supplies,Art,Ring Binder,1,737.47,0.1,129.53
+ORD-00094,2023-01-04,Corporate,East,Ohio,New York City,Furniture,Bookcases,Office Chair,10,798.02,0.0,89.88
+ORD-00095,2025-11-06,Corporate,West,California,Columbus,Office Supplies,Labels,Copy Paper,5,984.1,0.2,75.16
+ORD-00096,2023-09-25,Corporate,South,Ohio,New York City,Furniture,Bookcases,Office Chair,9,751.53,0.1,159.73
+ORD-00097,2025-03-29,Consumer,West,Ohio,New York City,Office Supplies,Paper,Copy Paper,5,912.67,0.0,127.35
+ORD-00098,2023-02-24,Corporate,West,New York,Columbus,Furniture,Bookcases,Wooden Bookcase,8,1406.51,,115.47
+ORD-00099,2023-12-31,Home Office,South,California,Columbus,Technology,Machines,Photocopier,2,942.53,0.1,95.79
+ORD-00100,2025-11-28,Consumer,South,Georgia,Houston,Furniture,Chairs,Office Chair,3,1232.27,0.2,200.32
+ORD-00101,2025-03-27,Home Office,Central,Florida,New York City,Office Supplies,Art,Storage Box,1,1426.35,0.1,79.14
+ORD-00102,2025-09-02,Corporate,Central,Washington,Chicago,Technology,Copiers,USB Hub,6,1471.25,0.3,95.27
+ORD-00103,2024-02-05,Home Office,South,Georgia,Houston,Furniture,Chairs,Conference Table,7,842.59,0.1,89.26
+ORD-00104,2024-12-27,Home Office,West,Georgia,Houston,Technology,Phones,Laser Printer,2,1122.7,0.0,173.66
+ORD-00105,2023-05-11,Corporate,West,Florida,Chicago,Technology,Phones,Laser Printer,5,804.79,0.1,84.03
+ORD-00106,2023-01-16,Corporate,East,California,Chicago,Furniture,Furnishings,Office Chair,10,1317.46,0.1,127.44
+ORD-00107,2025-11-28,Home Office,Central,Texas,Atlanta,Technology,Machines,USB Hub,4,97.97,0.0,5.75
+ORD-00108,2023-12-06,Home Office,East,California,Seattle,Technology,Phones,Wireless Keyboard,5,1103.76,0.0,173.82
+ORD-00109,2025-08-06,Consumer,East,Illinois,Los Angeles,Office Supplies,Art,Copy Paper,9,182.01,0.05,9.05
+ORD-00110,2023-01-11,Home Office,South,Florida,Columbus,Furniture,Chairs,Office Chair,2,267.21,0.3,-18.2
+ORD-00111,2023-08-14,Corporate,South,Illinois,Columbus,Technology,Accessories,USB Hub,9,346.32,0.0,79.41
+ORD-00112,2025-11-09,Home Office,South,California,Los Angeles,Furniture,Tables,Wooden Bookcase,10,797.05,0.05,120.54
+ORD-00113,2025-06-11,Consumer,West,New York,Columbus,Furniture,Furnishings,Wooden Bookcase,9,897.55,0.1,15.41
+ORD-00114,2025-01-07,Consumer,Central,California,New York City,Technology,Machines,Photocopier,10,1218.08,0.15,189.01
+ORD-00115,2024-03-29,Corporate,Central,Georgia,Houston,Technology,Accessories,Laser Printer,5,345.87,0.15,-3.92
+ORD-00116,2025-11-29,Home Office,Central,New York,Houston,Furniture,Furnishings,Conference Table,2,824.79,0.2,120.97
+ORD-00117,2024-07-10,Home Office,West,California,Chicago,Furniture,Bookcases,Wooden Bookcase,9,1396.53,0.0,294.34
+ORD-00118,2024-06-18,Home Office,East,California,New York City,Furniture,Bookcases,Office Chair,10,210.73,0.05,44.67
+ORD-00119,2025-12-05,Consumer,West,Washington,Houston,Office Supplies,Labels,Address Labels,1,848.57,0.0,115.95
+ORD-00120,2024-08-08,Home Office,East,New York,Columbus,Furniture,Bookcases,Desk Lamp,9,1445.23,0.05,241.65
+ORD-00121,2024-12-31,Corporate,West,Georgia,Miami,Furniture,Tables,Desk Lamp,1,1161.06,0.15,162.06
+ORD-00122,2024-12-16,Consumer,East,Georgia,Seattle,Technology,Accessories,Wireless Keyboard,4,978.41,0.1,122.25
+ORD-00123,2024-07-23,Home Office,South,Georgia,New York City,Furniture,Tables,Wooden Bookcase,7,679.94,0.05,179.29
+ORD-00124,2025-06-02,Consumer,South,Washington,Chicago,Furniture,Chairs,Wooden Bookcase,2,1163.78,0.0,93.34
+ORD-00125,2023-03-25,Consumer,Central,Illinois,Seattle,Office Supplies,Art,Marker Set,6,1144.94,0.1,109.58
+ORD-00126,2025-03-02,Consumer,South,Georgia,Los Angeles,Office Supplies,Paper,Address Labels,2,1299.25,0.1,329.24
+ORD-00127,2023-07-18,Corporate,West,Washington,New York City,Furniture,Chairs,Office Chair,3,1199.26,0.05,276.47
+ORD-00128,2025-10-13,Consumer,East,Florida,Miami,Office Supplies,Binders,Ring Binder,6,881.32,0.05,194.49
+ORD-00129,2024-08-29,Corporate,Central,Texas,Columbus,Furniture,Chairs,Desk Lamp,6,451.66,0.15,78.74
+ORD-00130,2025-12-05,Consumer,West,California,Los Angeles,Technology,Accessories,Laser Printer,6,934.87,0.15,152.37
+ORD-00131,2024-08-11,Corporate,Central,California,Chicago,Furniture,Tables,Office Chair,4,549.55,0.05,145.52
+ORD-00132,2023-11-13,Consumer,East,Washington,Miami,Office Supplies,Paper,Copy Paper,3,1346.41,0.1,203.54
+ORD-00133,2023-04-21,Corporate,West,Georgia,Houston,Furniture,Tables,Desk Lamp,7,998.01,0.1,137.95
+ORD-00134,2025-09-04,Home Office,West,Texas,Columbus,Technology,Machines,Smartphone,6,898.05,0.15,88.95
+ORD-00135,2023-11-05,Home Office,Central,Georgia,Chicago,Technology,Machines,Photocopier,7,84.62,0.0,4.64
+ORD-00136,2025-01-24,Corporate,Central,New York,New York City,Furniture,Furnishings,Desk Lamp,3,346.43,0.1,15.52
+ORD-00137,2024-05-30,Consumer,South,Texas,Chicago,Furniture,Tables,Office Chair,4,767.17,0.1,98.82
+ORD-00138,2025-07-20,Home Office,West,Florida,Houston,Office Supplies,Labels,Copy Paper,6,989.41,0.3,31.08
+ORD-00139,2025-05-16,Consumer,West,Illinois,Seattle,Technology,Phones,Wireless Keyboard,10,1079.42,0.3,27.74
+ORD-00140,2023-11-14,Consumer,Central,Ohio,Chicago,Office Supplies,Paper,Address Labels,6,1308.71,0.1,183.8
+ORD-00141,2023-09-18,Corporate,Central,California,Miami,Office Supplies,Binders,Storage Box,1,1164.74,0.0,318.04
+ORD-00142,2025-04-23,Corporate,East,Ohio,Atlanta,Technology,Accessories,Laser Printer,9,657.71,0.0,126.24
+ORD-00143,2023-06-14,Home Office,Central,New York,Chicago,Office Supplies,Art,Marker Set,1,1269.37,0.2,98.76
+ORD-00144,2024-05-25,Consumer,East,Ohio,Houston,Technology,Phones,Photocopier,5,1406.18,0.0,109.8
+ORD-00145,2025-11-01,Corporate,Central,California,New York City,Furniture,Bookcases,Office Chair,10,608.12,0.1,119.74
+ORD-00146,2024-03-02,Home Office,Central,Washington,Seattle,Furniture,Tables,Office Chair,2,527.13,0.1,32.83
+ORD-00147,2023-05-09,Consumer,South,Georgia,Houston,Office Supplies,Paper,Marker Set,7,1015.45,0.1,234.38
+ORD-00148,2023-10-30,Corporate,South,Texas,Columbus,Office Supplies,Binders,Copy Paper,8,1157.41,0.0,269.64
+ORD-00149,2023-12-27,Consumer,West,Ohio,Chicago,Furniture,Bookcases,Wooden Bookcase,10,535.89,0.0,101.36
+ORD-00150,2024-08-11,Consumer,West,Illinois,Los Angeles,Furniture,Chairs,Office Chair,9,181.48,0.15,25.69
+ORD-00151,2025-04-30,Home Office,East,Illinois,Los Angeles,Technology,Accessories,Wireless Keyboard,1,197.91,0.1,4.97
+ORD-00152,2023-11-01,Consumer,West,Illinois,Los Angeles,Office Supplies,Labels,Storage Box,1,677.74,0.0,125.4
+ORD-00153,2023-11-24,Consumer,East,California,New York City,Office Supplies,Paper,Copy Paper,2,729.19,0.0,93.69
+ORD-00154,2024-05-12,Home Office,West,Washington,New York City,Office Supplies,Labels,Marker Set,5,309.75,0.0,61.62
+ORD-00155,2023-05-21,Consumer,South,Washington,Miami,Furniture,Furnishings,Wooden Bookcase,6,307.95,0.0,59.12
+ORD-00156,2024-10-31,Corporate,South,Florida,New York City,Office Supplies,Storage,Address Labels,2,611.86,0.3,80.13
+ORD-00157,2025-08-16,Home Office,East,Washington,Chicago,Technology,Machines,Photocopier,8,1194.24,0.0,311.8
+ORD-00158,2025-06-09,Home Office,West,Illinois,Houston,Office Supplies,Binders,Marker Set,7,964.22,0.1,131.93
+ORD-00159,2025-05-08,Consumer,Central,Illinois,Houston,Technology,Accessories,Wireless Keyboard,5,467.05,0.15,84.26
+ORD-00160,2023-08-30,Home Office,West,Texas,,Furniture,Tables,Wooden Bookcase,5,268.66,0.15,58.35
+ORD-00161,2024-10-11,Home Office,Central,Washington,New York City,Furniture,Tables,Desk Lamp,9,598.54,0.1,62.77
+ORD-00162,2024-09-28,Corporate,East,New York,Houston,Technology,Machines,USB Hub,7,1092.28,0.0,140.3
+ORD-00163,2023-12-19,Consumer,East,Florida,Atlanta,Office Supplies,Paper,Address Labels,4,303.96,0.05,26.83
+ORD-00164,2023-06-09,Home Office,East,Florida,Chicago,Furniture,Chairs,Desk Lamp,5,421.3,0.1,77.89
+ORD-00165,2023-12-20,Corporate,South,Florida,Houston,Office Supplies,Storage,Copy Paper,7,708.5,0.0,127.05
+ORD-00166,2024-03-21,Corporate,South,California,,Furniture,Chairs,Wooden Bookcase,9,1236.27,0.0,147.36
+ORD-00167,2023-12-30,Corporate,South,Florida,New York City,Technology,Copiers,USB Hub,1,1266.21,0.1,226.61
+ORD-00168,2025-01-07,Corporate,Central,Georgia,Miami,Technology,Copiers,Smartphone,4,468.63,0.05,58.88
+ORD-00169,2023-11-07,Corporate,Central,New York,New York City,Technology,Phones,Smartphone,6,1380.7,0.1,311.52
+ORD-00170,2023-05-14,Consumer,East,Ohio,Houston,Office Supplies,Art,Ring Binder,3,1189.25,0.05,63.67
+ORD-00171,2023-09-23,Corporate,South,Texas,Columbus,Office Supplies,Storage,Copy Paper,9,871.24,0.1,71.3
+ORD-00172,2024-04-27,Home Office,East,Ohio,Chicago,Furniture,Tables,Desk Lamp,9,1241.3,0.15,33.69
+ORD-00173,2024-06-26,Consumer,Central,Florida,Miami,Furniture,Bookcases,Desk Lamp,4,670.48,0.0,132.35
+ORD-00174,2025-02-16,Home Office,South,New York,Seattle,Office Supplies,Paper,Marker Set,9,106.08,0.3,-7.53
+ORD-00175,2023-07-09,Consumer,Central,New York,Chicago,Furniture,Bookcases,Wooden Bookcase,3,283.09,0.15,36.71
+ORD-00176,2025-12-22,Corporate,West,Florida,Chicago,Furniture,Chairs,Wooden Bookcase,5,1332.17,0.1,88.42
+ORD-00177,2024-01-21,Home Office,East,Illinois,Columbus,Office Supplies,Labels,Address Labels,5,48.4,0.05,10.48
+ORD-00178,2024-05-07,Corporate,Central,Illinois,Houston,Technology,Phones,Smartphone,5,314.31,0.0,18.8
+ORD-00179,2024-09-20,Home Office,South,Illinois,Miami,Furniture,Furnishings,Wooden Bookcase,10,208.26,0.2,4.34
+ORD-00180,2023-01-21,Corporate,West,Illinois,Columbus,Technology,Phones,USB Hub,10,1340.29,0.3,205.97
+ORD-00181,2023-08-30,Corporate,West,Illinois,Los Angeles,Furniture,Tables,Desk Lamp,10,394.53,0.2,67.16
+ORD-00182,2025-05-05,Home Office,South,California,Miami,Technology,Accessories,Smartphone,3,176.43,0.3,20.25
+ORD-00183,2024-10-25,Home Office,Central,Illinois,New York City,Furniture,Bookcases,Wooden Bookcase,1,1435.62,0.15,134.96
+ORD-00184,2024-03-17,Home Office,South,New York,Miami,Technology,Copiers,Laser Printer,5,833.43,0.2,2.81
+ORD-00185,2023-11-25,Consumer,Central,Washington,Atlanta,Technology,Copiers,Photocopier,2,1007.68,0.0,109.58
+ORD-00186,2024-01-05,Home Office,East,Washington,Columbus,Furniture,Chairs,Office Chair,10,1202.1,0.05,306.95
+ORD-00187,2024-06-06,Corporate,West,Georgia,Atlanta,Furniture,Furnishings,Wooden Bookcase,10,520.64,0.3,8.25
+ORD-00188,2024-02-18,Corporate,East,California,Houston,Technology,Accessories,Photocopier,4,199.82,0.0,50.75
+ORD-00189,2023-05-29,Corporate,West,California,Seattle,Technology,Accessories,Smartphone,5,1468.03,0.15,219.84
+ORD-00190,2025-02-08,Consumer,Central,Ohio,Miami,Technology,Copiers,Laser Printer,5,1094.45,0.2,31.22
+ORD-00191,2024-12-03,Home Office,Central,Illinois,Los Angeles,Furniture,Tables,Wooden Bookcase,6,856.23,0.15,161.09
+ORD-00192,2024-05-29,Consumer,East,Texas,Atlanta,Furniture,Bookcases,Desk Lamp,1,431.3,0.0,108.84
+ORD-00193,2025-07-11,Home Office,West,Ohio,Seattle,Furniture,Tables,Office Chair,2,545.97,0.2,85.69
+ORD-00194,2025-11-09,Consumer,Central,Ohio,Columbus,Office Supplies,Paper,Marker Set,3,1266.12,0.1,188.95
+ORD-00195,2023-08-15,Corporate,West,Texas,Atlanta,Technology,Phones,Photocopier,10,599.46,0.1,119.79
+ORD-00196,2024-08-05,Consumer,Central,Illinois,Miami,Office Supplies,Art,Marker Set,4,774.96,0.15,32.58
+ORD-00197,2023-07-30,Home Office,South,Washington,Miami,Office Supplies,Paper,Copy Paper,6,1049.22,0.15,257.18
+ORD-00198,2024-04-25,Consumer,West,Ohio,Seattle,Technology,Copiers,USB Hub,2,569.7,0.0,133.49
+ORD-00199,2024-10-21,Corporate,Central,California,Los Angeles,Furniture,Furnishings,Conference Table,6,1486.87,0.15,199.13
+ORD-00200,2025-08-30,Home Office,Central,Texas,Houston,Furniture,Chairs,Desk Lamp,1,887.0,0.1,136.58
+ORD-00201,2024-08-03,Corporate,East,New York,Columbus,Technology,Phones,Laser Printer,5,731.74,0.1,161.2
+ORD-00202,2024-09-03,Consumer,South,California,Atlanta,Office Supplies,Art,Copy Paper,6,104.77,0.0,8.4
+ORD-00203,2024-02-18,Corporate,East,Georgia,Miami,Furniture,Furnishings,Office Chair,6,407.32,0.0,105.27
+ORD-00204,2024-08-18,Consumer,Central,Ohio,Miami,Office Supplies,Paper,Ring Binder,2,1361.53,0.0,234.81
+ORD-00205,2025-08-01,Home Office,West,Georgia,New York City,Technology,Accessories,Wireless Keyboard,7,602.3,,89.58
+ORD-00206,2025-09-10,Home Office,East,Illinois,New York City,Furniture,Tables,Office Chair,1,706.62,0.3,75.99
+ORD-00207,2025-10-13,Corporate,Central,Florida,Seattle,Furniture,Chairs,Conference Table,7,1031.96,0.1,262.27
+ORD-00208,2025-08-23,Consumer,South,Ohio,Los Angeles,Office Supplies,Storage,Ring Binder,6,1273.44,0.1,49.93
+ORD-00209,2024-09-28,Home Office,East,Georgia,Atlanta,Furniture,Tables,Conference Table,7,827.24,0.0,138.87
+ORD-00210,2023-10-04,Home Office,South,California,Atlanta,Office Supplies,Storage,Storage Box,4,826.37,0.2,166.64
+ORD-00211,2025-09-27,Home Office,West,Florida,Columbus,Furniture,Bookcases,Conference Table,8,1477.78,0.2,43.93
+ORD-00212,2025-02-12,Home Office,Central,Texas,Miami,Office Supplies,Storage,Marker Set,7,992.03,0.2,39.62
+ORD-00213,2023-06-13,Consumer,East,Georgia,Atlanta,Technology,Machines,Photocopier,5,959.18,0.2,28.36
+ORD-00214,2025-02-13,Corporate,West,Ohio,Miami,Office Supplies,Paper,Marker Set,3,557.39,0.2,10.11
+ORD-00215,2024-09-04,Home Office,West,Illinois,Atlanta,Furniture,Bookcases,Desk Lamp,4,1201.92,0.3,239.7
+ORD-00216,2024-10-31,Consumer,South,Illinois,Seattle,Technology,Accessories,Smartphone,2,265.61,0.2,29.77
+ORD-00217,2025-07-18,Consumer,South,California,Miami,Technology,Phones,Smartphone,10,137.52,0.15,1.89
+ORD-00218,2025-07-31,Home Office,West,Florida,Los Angeles,Office Supplies,Paper,Storage Box,9,549.54,0.1,117.46
+ORD-00219,2025-09-07,Consumer,West,Texas,Columbus,Office Supplies,Labels,Marker Set,3,230.12,0.05,29.88
+ORD-00220,2024-09-11,Consumer,West,Ohio,Los Angeles,Furniture,Bookcases,Desk Lamp,3,66.05,0.15,2.37
+ORD-00221,2025-05-04,Home Office,West,Florida,Los Angeles,Technology,Machines,Smartphone,3,1047.34,0.1,104.3
+ORD-00222,2024-04-04,Corporate,Central,Ohio,Miami,Technology,Phones,USB Hub,1,1153.78,0.2,181.05
+ORD-00223,2025-06-06,Home Office,South,Washington,New York City,Furniture,Tables,Wooden Bookcase,6,355.56,0.05,22.87
+ORD-00224,2023-06-03,Corporate,West,California,Los Angeles,Technology,Accessories,Laser Printer,6,434.46,0.2,2.66
+ORD-00225,2025-12-22,Home Office,West,Florida,Chicago,Office Supplies,Storage,Ring Binder,9,471.03,0.2,3.52
+ORD-00226,2023-09-22,Corporate,West,Georgia,Los Angeles,Office Supplies,Labels,Address Labels,1,713.78,0.05,125.05
+ORD-00227,2024-11-25,Corporate,West,New York,Miami,Technology,Accessories,Smartphone,1,442.23,0.1,27.48
+ORD-00228,2025-10-09,Consumer,Central,Georgia,Miami,Furniture,Bookcases,Office Chair,9,1366.25,0.15,218.34
+ORD-00229,2023-06-23,Corporate,South,Washington,Atlanta,Furniture,Furnishings,Office Chair,9,524.41,0.0,46.8
+ORD-00230,2023-12-14,Home Office,Central,New York,Miami,Office Supplies,Art,Ring Binder,4,589.08,0.1,83.94
+ORD-00231,2023-08-02,Corporate,Central,Georgia,Seattle,Office Supplies,Storage,Ring Binder,9,24.32,0.0,4.59
+ORD-00232,2025-01-22,Consumer,Central,California,Chicago,Technology,Copiers,Wireless Keyboard,3,310.22,0.15,26.07
+ORD-00233,2024-07-08,Corporate,Central,Ohio,Los Angeles,Furniture,Chairs,Conference Table,4,179.88,0.05,38.73
+ORD-00234,2025-03-27,Consumer,East,Ohio,Los Angeles,Office Supplies,Paper,Storage Box,9,1230.95,0.1,262.97
+ORD-00235,2023-05-07,Consumer,East,New York,New York City,Technology,Phones,Laser Printer,1,597.01,0.15,112.0
+ORD-00236,2023-04-13,Corporate,West,California,Chicago,Furniture,Furnishings,Office Chair,10,1087.66,0.2,-44.89
+ORD-00237,2025-09-16,Corporate,South,Florida,Houston,Technology,Machines,Smartphone,1,695.23,0.05,43.36
+ORD-00238,2025-08-16,Consumer,East,New York,Seattle,Furniture,Chairs,Desk Lamp,9,976.75,0.2,114.75
+ORD-00239,2024-03-29,Home Office,Central,Washington,Miami,Technology,Accessories,Smartphone,5,1355.63,0.0,234.27
+ORD-00240,2025-09-12,Consumer,West,New York,New York City,Furniture,Chairs,Conference Table,5,202.04,0.1,16.66
+ORD-00241,2024-02-24,Corporate,Central,Ohio,New York City,Furniture,Tables,Desk Lamp,3,134.87,0.1,28.15
+ORD-00242,2025-12-22,Consumer,West,Florida,Seattle,Office Supplies,Storage,Storage Box,7,491.92,0.1,46.89
+ORD-00243,2023-01-07,Consumer,East,Georgia,Miami,Furniture,Furnishings,Wooden Bookcase,4,86.27,0.2,18.44
+ORD-00244,2023-05-06,Home Office,West,New York,New York City,Office Supplies,Art,Copy Paper,1,169.86,0.2,11.55
+ORD-00245,2025-07-14,Consumer,Central,Illinois,Houston,Office Supplies,Binders,Marker Set,8,1466.63,0.1,97.19
+ORD-00246,2023-05-05,Corporate,East,New York,Houston,Office Supplies,Storage,Storage Box,5,448.08,0.3,-43.32
+ORD-00247,2024-01-04,Consumer,East,Florida,Houston,Furniture,Bookcases,Wooden Bookcase,4,65.79,0.3,3.35
+ORD-00248,2023-12-09,Consumer,East,Illinois,Columbus,Furniture,Chairs,Office Chair,3,547.15,0.2,95.95
+ORD-00249,2023-12-25,Home Office,West,Illinois,Miami,Furniture,Tables,Wooden Bookcase,4,533.97,0.1,26.6
+ORD-00250,2023-04-14,Consumer,West,New York,Chicago,Technology,Accessories,Laser Printer,6,862.68,0.15,44.57
+ORD-00251,2023-03-05,Home Office,West,Ohio,New York City,Furniture,Chairs,Office Chair,5,906.7,0.05,135.55
+ORD-00252,2024-07-11,Consumer,Central,California,Atlanta,Office Supplies,Storage,Marker Set,10,1417.18,0.0,221.67
+ORD-00253,2024-02-11,Corporate,East,New York,Los Angeles,Office Supplies,Paper,Marker Set,9,556.16,0.15,114.86
+ORD-00254,2023-04-26,Home Office,South,Illinois,,Technology,Machines,Photocopier,1,967.49,0.05,89.48
+ORD-00255,2023-10-14,Consumer,Central,Washington,Columbus,Technology,Machines,USB Hub,7,48.29,0.1,7.82
+ORD-00256,2024-11-26,Corporate,West,Ohio,Chicago,Office Supplies,Paper,Copy Paper,9,1194.22,0.3,-99.18
+ORD-00257,2023-01-01,Consumer,Central,Florida,Los Angeles,Technology,Accessories,Laser Printer,5,28.39,0.3,2.49
+ORD-00258,2025-03-12,Home Office,East,Washington,Atlanta,Furniture,Furnishings,Wooden Bookcase,4,622.52,0.0,81.07
+ORD-00259,2023-12-24,Home Office,East,Illinois,Chicago,Furniture,Chairs,Desk Lamp,2,133.76,0.1,25.06
+ORD-00260,2024-05-22,Home Office,Central,Georgia,Seattle,Office Supplies,Paper,Copy Paper,2,435.89,0.2,88.58
+ORD-00261,2025-07-01,Consumer,South,Illinois,Seattle,Technology,Accessories,USB Hub,9,344.53,0.0,34.23
+ORD-00262,2025-10-30,Corporate,Central,Washington,Seattle,Furniture,Tables,Wooden Bookcase,4,944.68,0.0,195.55
+ORD-00263,2024-12-03,Corporate,West,Washington,Columbus,Office Supplies,Art,Address Labels,4,231.46,0.2,9.9
+ORD-00264,2025-05-22,Home Office,West,Texas,Seattle,Office Supplies,Paper,Copy Paper,1,490.03,0.0,82.11
+ORD-00265,2025-07-28,Consumer,West,California,Columbus,Office Supplies,Binders,Copy Paper,9,142.42,0.3,27.15
+ORD-00266,2025-06-29,Corporate,West,Florida,Miami,Furniture,Bookcases,Conference Table,3,662.05,0.3,-25.04
+ORD-00267,2024-09-23,Consumer,South,Texas,Chicago,Furniture,Chairs,Conference Table,7,26.46,0.0,5.66
+ORD-00268,2025-03-03,Home Office,South,California,Miami,Furniture,Furnishings,Desk Lamp,9,175.94,0.2,30.5
+ORD-00269,2023-08-15,Consumer,South,Florida,Atlanta,Furniture,Tables,Desk Lamp,9,97.49,0.2,4.25
+ORD-00270,2025-08-09,Corporate,Central,Ohio,New York City,Technology,Accessories,Smartphone,6,339.3,0.15,51.79
+ORD-00271,2024-06-23,Consumer,South,Florida,Columbus,Technology,Copiers,Wireless Keyboard,8,712.87,0.1,40.97
+ORD-00272,2025-12-03,Consumer,East,Ohio,Houston,Furniture,Chairs,Office Chair,5,1038.31,0.0,269.49
+ORD-00273,2023-04-21,Home Office,East,New York,Los Angeles,Furniture,Furnishings,Conference Table,6,805.79,0.1,15.37
+ORD-00274,2025-02-22,Home Office,East,California,Miami,Office Supplies,Art,Copy Paper,1,791.52,0.3,36.67
+ORD-00275,2024-10-26,Home Office,East,Illinois,Columbus,Technology,Machines,Smartphone,1,1113.76,0.0,220.11
+ORD-00276,2023-11-03,Home Office,Central,Washington,Miami,Technology,Phones,Photocopier,9,829.51,0.2,116.38
+ORD-00277,2024-05-03,Consumer,West,Georgia,New York City,Furniture,Tables,Wooden Bookcase,2,912.87,0.1,18.4
+ORD-00278,2024-06-23,Corporate,West,Georgia,Miami,Office Supplies,Binders,Address Labels,6,561.21,0.0,53.34
+ORD-00279,2024-04-05,Home Office,South,Illinois,New York City,Office Supplies,Binders,Copy Paper,5,800.35,0.3,-31.0
+ORD-00280,2024-07-12,Corporate,West,Ohio,Atlanta,Furniture,Chairs,Wooden Bookcase,9,1041.2,0.15,220.46
+ORD-00281,2023-01-15,Corporate,East,California,Houston,Furniture,Bookcases,Desk Lamp,10,1025.84,0.0,116.11
+ORD-00282,2024-06-03,Corporate,South,Ohio,New York City,Office Supplies,Paper,Address Labels,1,222.76,0.3,18.37
+ORD-00283,2024-03-21,Home Office,South,Florida,Atlanta,Office Supplies,Binders,Marker Set,9,344.29,0.1,83.54
+ORD-00284,2025-03-07,Home Office,East,Florida,Miami,Office Supplies,Paper,Copy Paper,2,1053.5,0.05,252.83
+ORD-00285,2025-04-12,Home Office,East,Georgia,Miami,Furniture,Tables,Desk Lamp,7,1176.4,0.3,79.22
+ORD-00286,2023-06-20,Corporate,West,Illinois,Miami,Furniture,Chairs,Conference Table,5,348.67,0.05,77.34
+ORD-00287,2023-01-10,Home Office,South,California,Chicago,Technology,Accessories,USB Hub,4,447.55,0.05,103.68
+ORD-00288,2024-12-18,Consumer,Central,New York,Miami,Furniture,Chairs,Wooden Bookcase,1,1185.57,0.05,196.53
+ORD-00289,2023-11-11,Home Office,East,Texas,Chicago,Furniture,Tables,Office Chair,9,77.62,0.0,7.01
+ORD-00290,2025-04-03,Home Office,West,Illinois,Atlanta,Furniture,Chairs,Office Chair,3,652.7,0.05,153.08
+ORD-00291,2023-05-12,Corporate,West,Illinois,Chicago,Technology,Machines,Wireless Keyboard,7,724.98,0.1,41.7
+ORD-00292,2024-04-19,Corporate,West,Washington,Columbus,Furniture,Furnishings,Wooden Bookcase,4,456.96,0.2,57.71
+ORD-00293,2025-10-24,Corporate,West,Texas,Chicago,Technology,Copiers,USB Hub,3,783.18,0.1,28.15
+ORD-00294,2025-04-04,Consumer,East,Illinois,Columbus,Furniture,Chairs,Wooden Bookcase,9,110.77,0.05,22.85
+ORD-00295,2023-12-08,Home Office,Central,Florida,New York City,Technology,Accessories,USB Hub,4,1450.93,0.0,293.81
+ORD-00296,2025-05-18,Corporate,East,Texas,Columbus,Furniture,Chairs,Wooden Bookcase,9,394.16,0.05,25.78
+ORD-00297,2023-08-01,Corporate,South,Georgia,Atlanta,Technology,Accessories,Photocopier,6,894.14,0.15,10.92
+ORD-00298,2023-01-10,Consumer,South,Ohio,Los Angeles,Office Supplies,Storage,Copy Paper,6,412.68,0.15,20.48
+ORD-00299,2024-07-16,Consumer,Central,California,Seattle,Furniture,Chairs,Conference Table,4,1459.18,,98.59
+ORD-00300,2024-05-23,Home Office,South,Washington,Houston,Technology,Machines,Smartphone,9,425.63,0.2,17.18
+ORD-00301,2024-07-14,Home Office,Central,New York,Los Angeles,Office Supplies,Art,Marker Set,7,832.98,0.05,119.37
+ORD-00302,2025-04-05,Corporate,South,Florida,New York City,Office Supplies,Binders,Storage Box,1,1455.98,0.1,85.61
+ORD-00303,2023-07-12,Home Office,Central,California,Atlanta,Technology,Accessories,Smartphone,5,1083.31,0.2,-9.5
+ORD-00304,2024-03-27,Corporate,West,New York,New York City,Technology,Machines,Photocopier,7,488.49,0.2,67.54
+ORD-00305,2024-05-14,Home Office,West,Washington,New York City,Office Supplies,Storage,Copy Paper,8,96.72,0.1,8.78
+ORD-00306,2025-04-25,Consumer,East,California,Chicago,Technology,Copiers,Smartphone,5,121.16,0.2,6.35
+ORD-00307,2024-03-27,Home Office,South,Texas,Columbus,Technology,Accessories,USB Hub,1,969.77,0.15,160.5
+ORD-00308,2025-04-10,Corporate,West,Florida,Chicago,Technology,Copiers,USB Hub,10,1373.8,0.0,210.92
+ORD-00309,2024-02-29,Consumer,West,Ohio,Los Angeles,Office Supplies,Paper,Address Labels,1,532.86,0.05,53.63
+ORD-00310,2023-06-15,Corporate,East,Florida,Atlanta,Furniture,Bookcases,Desk Lamp,6,233.03,0.1,7.76
+ORD-00311,2024-01-02,Home Office,West,New York,Miami,Technology,Phones,Photocopier,2,415.76,0.0,113.07
+ORD-00312,2023-04-10,Consumer,West,Georgia,Columbus,Office Supplies,Binders,Ring Binder,2,1301.82,0.3,27.51
+ORD-00313,2025-05-17,Corporate,West,Illinois,New York City,Technology,Machines,Laser Printer,2,572.86,0.0,111.32
+ORD-00314,2023-02-15,Corporate,West,New York,Los Angeles,Technology,Phones,Smartphone,10,1114.32,0.0,226.15
+ORD-00315,2024-01-02,Consumer,South,Florida,New York City,Technology,Accessories,Wireless Keyboard,4,662.92,0.15,-4.72
+ORD-00316,2023-02-08,Consumer,Central,Texas,Houston,Furniture,Bookcases,Office Chair,1,1231.19,0.0,319.68
+ORD-00317,2023-10-23,Corporate,Central,New York,Atlanta,Furniture,Chairs,Conference Table,2,1104.45,0.15,202.86
+ORD-00318,2023-11-15,Home Office,East,Washington,New York City,Technology,Accessories,Wireless Keyboard,8,316.42,0.15,47.63
+ORD-00319,2023-10-22,Corporate,Central,California,Chicago,Office Supplies,Storage,Copy Paper,1,1300.49,0.3,276.36
+ORD-00320,2025-01-11,Home Office,Central,Texas,New York City,Technology,Phones,Wireless Keyboard,10,759.16,0.1,25.82
+ORD-00321,2023-09-13,Corporate,East,California,Chicago,Office Supplies,Paper,Storage Box,7,103.14,0.1,25.58
+ORD-00322,2025-10-04,Corporate,Central,California,Columbus,Technology,Machines,Wireless Keyboard,5,1184.05,0.3,99.07
+ORD-00323,2023-07-15,Consumer,South,Florida,Chicago,Technology,Copiers,Laser Printer,8,839.0,0.05,179.43
+ORD-00324,2024-09-13,Consumer,East,Georgia,Seattle,Furniture,Chairs,Wooden Bookcase,10,572.81,0.05,51.75
+ORD-00325,2024-10-23,Home Office,South,Illinois,New York City,Furniture,Chairs,Conference Table,9,1291.05,0.15,210.84
+ORD-00326,2024-10-14,Consumer,South,Ohio,Los Angeles,Technology,Accessories,Smartphone,4,359.81,0.0,31.67
+ORD-00327,2023-10-16,Corporate,East,Ohio,Columbus,Office Supplies,Labels,Marker Set,1,633.02,0.15,144.75
+ORD-00328,2025-10-31,Corporate,West,Texas,Los Angeles,Technology,Copiers,Laser Printer,7,105.44,0.05,9.85
+ORD-00329,2023-01-19,Consumer,South,California,Columbus,Technology,Phones,Smartphone,3,1050.72,0.15,38.86
+ORD-00330,2023-07-24,Home Office,East,Illinois,Atlanta,Technology,Phones,Smartphone,1,753.64,0.3,-19.65
+ORD-00331,2025-10-27,Home Office,Central,Texas,Los Angeles,Furniture,Bookcases,Office Chair,10,771.55,0.1,3.5
+ORD-00332,2024-02-20,Consumer,South,Washington,Chicago,Furniture,Bookcases,Office Chair,10,394.84,0.0,85.44
+ORD-00333,2025-08-04,Home Office,East,Georgia,Los Angeles,Furniture,Chairs,Office Chair,6,1191.51,0.1,47.0
+ORD-00334,2023-02-26,Corporate,South,Illinois,Columbus,Furniture,Bookcases,Wooden Bookcase,8,42.95,0.05,3.94
+ORD-00335,2025-12-08,Consumer,West,Florida,Seattle,Office Supplies,Art,Ring Binder,2,575.69,0.2,17.26
+ORD-00336,2023-07-25,Corporate,South,New York,New York City,Technology,Accessories,USB Hub,8,121.7,0.05,16.27
+ORD-00337,2024-07-14,Corporate,East,New York,Houston,Office Supplies,Storage,Storage Box,9,27.86,0.2,4.26
+ORD-00338,2025-03-17,Consumer,Central,Texas,Houston,Furniture,Furnishings,Desk Lamp,10,1142.58,0.0,111.59
+ORD-00339,2025-07-13,Corporate,Central,Washington,Miami,Technology,Machines,Photocopier,10,1364.18,0.2,139.05
+ORD-00340,2023-09-24,Corporate,East,Ohio,Houston,Office Supplies,Labels,Address Labels,6,591.59,0.1,31.15
+ORD-00341,2024-05-28,Consumer,West,New York,Seattle,Office Supplies,Art,Copy Paper,2,586.54,0.2,59.86
+ORD-00342,2025-09-16,Consumer,East,New York,Columbus,Office Supplies,Binders,Storage Box,5,1048.07,0.0,195.9
+ORD-00343,2023-12-06,Corporate,West,Washington,Seattle,Technology,Phones,Photocopier,1,659.87,0.0,72.39
+ORD-00344,2024-11-20,Corporate,South,Illinois,Miami,Furniture,Furnishings,Wooden Bookcase,6,654.9,0.0,110.2
+ORD-00345,2025-06-11,Home Office,East,Texas,Houston,Technology,Copiers,USB Hub,6,160.48,0.3,-2.74
+ORD-00346,2023-09-10,Home Office,Central,New York,New York City,Furniture,Tables,Wooden Bookcase,1,1442.52,0.2,266.45
+ORD-00347,2024-04-06,Home Office,South,Ohio,Columbus,Office Supplies,Art,Address Labels,8,943.14,0.2,-42.21
+ORD-00348,2023-05-18,Consumer,South,Georgia,Chicago,Technology,Accessories,Laser Printer,3,879.81,0.3,112.36
+ORD-00349,2025-05-04,Home Office,Central,Florida,Atlanta,Office Supplies,Labels,Storage Box,8,581.11,0.05,99.62
+ORD-00350,2023-06-19,Corporate,West,Texas,Miami,Furniture,Bookcases,Office Chair,4,1411.1,0.1,305.75
+ORD-00351,2025-07-28,Consumer,West,Washington,New York City,Technology,Machines,Wireless Keyboard,5,100.5,0.15,25.51
+ORD-00352,2024-09-07,Consumer,West,Washington,Miami,Office Supplies,Storage,Ring Binder,6,693.65,0.15,149.04
+ORD-00353,2024-06-15,Corporate,South,Washington,Miami,Office Supplies,Binders,Storage Box,6,813.18,0.1,101.44
+ORD-00354,2025-05-25,Corporate,East,Florida,Columbus,Furniture,Chairs,Conference Table,8,899.24,0.15,29.67
+ORD-00355,2025-04-09,Corporate,West,Washington,Atlanta,Furniture,Furnishings,Desk Lamp,7,762.33,0.3,92.15
+ORD-00356,2024-04-09,Consumer,South,New York,Miami,Technology,Copiers,Smartphone,7,936.11,0.3,167.82
+ORD-00357,2025-07-13,Corporate,Central,California,Atlanta,Technology,Phones,Photocopier,3,836.78,0.2,91.14
+ORD-00358,2024-04-29,Home Office,East,Georgia,Houston,Technology,Copiers,Wireless Keyboard,4,1460.15,0.2,304.6
+ORD-00359,2025-05-11,Consumer,East,Georgia,Atlanta,Technology,Copiers,Laser Printer,8,211.92,0.05,23.28
+ORD-00360,2024-01-18,Corporate,West,Washington,Houston,Furniture,Tables,Conference Table,8,249.29,0.0,40.25
+ORD-00361,2025-12-24,Home Office,West,Georgia,Columbus,Office Supplies,Labels,Copy Paper,7,1476.67,0.05,298.94
+ORD-00362,2025-08-29,Home Office,Central,Georgia,Houston,Office Supplies,Binders,Address Labels,8,1003.02,0.0,60.52
+ORD-00363,2025-09-07,Corporate,Central,Georgia,Miami,Furniture,Chairs,Desk Lamp,2,716.88,0.15,80.42
+ORD-00364,2023-07-06,Home Office,West,Texas,Atlanta,Technology,Phones,Laser Printer,9,780.5,0.3,79.61
+ORD-00365,2023-11-06,Corporate,Central,Florida,Houston,Office Supplies,Storage,Address Labels,4,1455.95,0.3,216.44
+ORD-00366,2025-01-27,Home Office,Central,Ohio,New York City,Technology,Accessories,Photocopier,2,1356.72,0.15,170.56
+ORD-00367,2025-04-06,Home Office,East,New York,Atlanta,Office Supplies,Binders,Storage Box,5,279.18,0.15,19.36
+ORD-00368,2023-10-03,Corporate,Central,Illinois,Seattle,Office Supplies,Art,Marker Set,4,1130.39,0.0,175.68
+ORD-00369,2023-11-24,Consumer,West,Texas,New York City,Furniture,Furnishings,Conference Table,8,1388.29,0.2,229.13
+ORD-00370,2025-07-01,Corporate,South,Texas,Columbus,Furniture,Chairs,Desk Lamp,7,1404.05,0.05,275.16
+ORD-00371,2024-09-19,Home Office,West,Washington,Los Angeles,Technology,Phones,USB Hub,9,713.13,0.2,-3.03
+ORD-00372,2025-10-21,Home Office,West,California,Columbus,Office Supplies,Binders,Ring Binder,3,1135.53,0.0,144.53
+ORD-00373,2023-04-17,Home Office,Central,Georgia,Atlanta,Furniture,Tables,Office Chair,8,315.77,0.0,57.07
+ORD-00374,2024-01-25,Home Office,Central,Illinois,Chicago,Furniture,Furnishings,Conference Table,6,117.92,0.0,28.32
+ORD-00375,2025-12-22,Consumer,South,New York,Atlanta,Furniture,Chairs,Wooden Bookcase,8,1401.14,0.05,236.34
+ORD-00376,2023-06-26,Home Office,East,Washington,Chicago,Office Supplies,Art,Copy Paper,4,1445.77,0.0,310.39
+ORD-00377,2025-03-06,Corporate,East,Florida,New York City,Technology,Copiers,Laser Printer,1,151.7,0.3,-0.5
+ORD-00378,2024-04-16,Home Office,South,California,Seattle,Office Supplies,Art,Marker Set,7,1452.75,0.1,207.77
+ORD-00379,2023-06-01,Corporate,East,Florida,Atlanta,Office Supplies,Paper,Ring Binder,5,189.9,0.3,24.88
+ORD-00380,2023-12-17,Home Office,East,Washington,Houston,Furniture,Chairs,Desk Lamp,2,1345.43,0.3,-15.43
+ORD-00381,2023-05-29,Corporate,East,Ohio,,Furniture,Tables,Office Chair,9,1297.44,0.2,27.62
+ORD-00382,2025-11-14,Home Office,East,Ohio,Miami,Office Supplies,Labels,Copy Paper,5,883.74,0.05,110.95
+ORD-00383,2024-12-26,Home Office,South,Texas,Chicago,Technology,Machines,Photocopier,8,992.41,0.2,88.53
+ORD-00384,2023-11-07,Consumer,South,Illinois,Atlanta,Furniture,Furnishings,Wooden Bookcase,5,195.69,0.3,11.6
+ORD-00385,2024-12-17,Home Office,South,Ohio,New York City,Office Supplies,Binders,Marker Set,8,458.61,0.3,27.87
+ORD-00386,2024-11-04,Home Office,East,Illinois,Atlanta,Furniture,Bookcases,Wooden Bookcase,7,191.24,0.0,32.59
+ORD-00387,2024-11-24,Corporate,Central,California,Seattle,Furniture,Bookcases,Office Chair,10,1238.86,0.2,129.72
+ORD-00388,2023-06-15,Consumer,East,Texas,Chicago,Office Supplies,Binders,Ring Binder,1,550.34,0.3,67.53
+ORD-00389,2024-02-19,Consumer,Central,New York,Chicago,Furniture,Bookcases,Conference Table,5,322.29,0.0,66.46
+ORD-00390,2024-01-25,Corporate,East,Washington,Chicago,Technology,Phones,Wireless Keyboard,6,988.16,0.15,41.28
+ORD-00391,2025-01-20,Home Office,South,Washington,New York City,Office Supplies,Labels,Marker Set,3,133.67,0.05,21.6
+ORD-00392,2023-12-21,Consumer,South,New York,,Furniture,Chairs,Office Chair,4,631.5,0.15,114.38
+ORD-00393,2024-03-04,Corporate,West,New York,Atlanta,Technology,Accessories,Photocopier,10,268.94,0.2,36.3
+ORD-00394,2025-05-25,Home Office,South,Illinois,Houston,Technology,Machines,Smartphone,3,581.83,0.05,63.09
+ORD-00395,2024-07-25,Home Office,Central,Illinois,Chicago,Office Supplies,Paper,Copy Paper,2,1240.22,0.0,299.6
+ORD-00396,2023-10-15,Corporate,West,Illinois,Seattle,Office Supplies,Labels,Marker Set,10,1269.43,0.1,181.3
+ORD-00397,2025-08-16,Consumer,East,New York,New York City,Office Supplies,Storage,Storage Box,4,366.17,0.0,90.5
+ORD-00398,2025-02-17,Home Office,West,Ohio,Atlanta,Technology,Accessories,Smartphone,10,58.14,0.15,7.85
+ORD-00399,2023-05-05,Home Office,Central,Washington,Houston,Furniture,Bookcases,Office Chair,5,474.68,0.1,60.73
+ORD-00400,2025-10-13,Corporate,South,California,Houston,Furniture,Furnishings,Desk Lamp,10,524.01,0.2,13.67
+ORD-00401,2024-11-15,Consumer,South,New York,Chicago,Office Supplies,Paper,Storage Box,7,220.48,0.0,55.06
+ORD-00402,2024-04-27,Home Office,South,Georgia,Los Angeles,Office Supplies,Paper,Storage Box,5,1102.11,0.3,168.31
+ORD-00403,2024-10-03,Home Office,West,Florida,Chicago,Technology,Copiers,Wireless Keyboard,10,427.35,0.15,12.66
+ORD-00404,2023-01-17,Home Office,West,Illinois,Columbus,Technology,Machines,Photocopier,1,354.6,0.2,83.14
+ORD-00405,2025-08-27,Corporate,Central,Ohio,Seattle,Office Supplies,Labels,Marker Set,7,95.91,0.1,11.99
+ORD-00406,2023-03-05,Consumer,South,Illinois,Houston,Technology,Accessories,Photocopier,5,1145.04,0.0,96.56
+ORD-00407,2024-04-15,Consumer,East,Florida,Columbus,Office Supplies,Paper,Address Labels,2,306.28,0.15,8.67
+ORD-00408,2024-08-04,Corporate,South,New York,New York City,Technology,Copiers,Smartphone,4,1015.13,0.2,103.93
+ORD-00409,2023-10-05,Consumer,South,Ohio,New York City,Office Supplies,Labels,Marker Set,10,71.71,0.3,-2.85
+ORD-00410,2024-01-19,Home Office,South,Texas,Columbus,Technology,Machines,Photocopier,3,875.15,0.2,43.59
+ORD-00411,2023-05-24,Consumer,East,Texas,Houston,Office Supplies,Storage,Marker Set,7,1402.96,0.15,256.23
+ORD-00412,2025-09-18,Consumer,West,Washington,Los Angeles,Technology,Accessories,Wireless Keyboard,1,985.1,0.2,149.53
+ORD-00413,2024-05-07,Home Office,West,Texas,New York City,Technology,Accessories,Laser Printer,3,500.01,0.15,63.22
+ORD-00414,2025-02-16,Consumer,East,Florida,Los Angeles,Office Supplies,Art,Marker Set,10,365.33,0.15,69.57
+ORD-00415,2023-12-29,Corporate,Central,Ohio,Los Angeles,Furniture,Tables,Desk Lamp,9,1495.43,0.0,279.13
+ORD-00416,2025-02-26,Consumer,Central,Texas,Atlanta,Furniture,Furnishings,Conference Table,7,954.44,0.1,150.17
+ORD-00417,2024-06-07,Home Office,East,Texas,Chicago,Technology,Accessories,Smartphone,5,873.78,0.1,132.46
+ORD-00418,2023-11-28,Corporate,West,Ohio,Houston,Office Supplies,Labels,Copy Paper,6,232.06,0.15,14.63
+ORD-00419,2023-06-13,Consumer,Central,Georgia,Los Angeles,Furniture,Furnishings,Desk Lamp,4,1419.97,0.05,54.61
+ORD-00420,2024-12-10,Corporate,Central,Georgia,New York City,Technology,Phones,Photocopier,1,1004.28,0.1,112.58
+ORD-00421,2023-04-19,Consumer,South,Florida,Houston,Furniture,Chairs,Conference Table,4,974.46,0.05,89.1
+ORD-00422,2023-07-09,Corporate,Central,Florida,New York City,Furniture,Bookcases,Wooden Bookcase,7,1226.61,0.2,158.91
+ORD-00423,2025-04-16,Corporate,Central,Washington,Columbus,Furniture,Tables,Wooden Bookcase,9,597.05,0.1,40.42
+ORD-00424,2023-07-12,Home Office,Central,Ohio,Houston,Technology,Machines,Laser Printer,10,725.16,0.05,98.61
+ORD-00425,2024-12-09,Home Office,Central,New York,Miami,Furniture,Furnishings,Wooden Bookcase,4,1056.91,0.2,191.05
+ORD-00426,2023-02-21,Consumer,South,Illinois,Chicago,Office Supplies,Storage,Address Labels,5,1198.83,0.0,122.27
+ORD-00427,2025-11-09,Consumer,South,New York,Chicago,Office Supplies,Storage,Copy Paper,8,104.4,0.0,19.28
+ORD-00428,2024-09-01,Corporate,East,New York,New York City,Office Supplies,Storage,Copy Paper,3,1040.18,0.05,104.48
+ORD-00429,2024-01-11,Corporate,West,New York,Miami,Furniture,Bookcases,Desk Lamp,7,968.63,0.1,47.07
+ORD-00430,2024-08-22,Corporate,South,Illinois,Chicago,Office Supplies,Art,Storage Box,9,1463.27,0.2,4.45
+ORD-00431,2024-03-04,Home Office,South,Ohio,Houston,Technology,Copiers,Smartphone,7,490.61,0.1,38.61
+ORD-00432,2025-03-08,Home Office,West,Ohio,Columbus,Furniture,Bookcases,Office Chair,1,177.38,0.0,47.26
+ORD-00433,2024-07-29,Home Office,East,Texas,New York City,Office Supplies,Binders,Storage Box,6,979.39,0.0,232.27
+ORD-00434,2024-01-26,Corporate,Central,California,Houston,Office Supplies,Binders,Copy Paper,2,614.16,0.05,39.54
+ORD-00435,2023-03-12,Corporate,West,New York,Columbus,Office Supplies,Art,Ring Binder,2,1310.43,0.1,103.93
+ORD-00436,2024-01-12,Corporate,South,New York,Atlanta,Office Supplies,Art,Storage Box,2,274.69,0.2,19.62
+ORD-00437,2025-11-28,Corporate,Central,Washington,Atlanta,Technology,Copiers,USB Hub,9,1246.09,0.0,198.97
+ORD-00438,2023-09-10,Home Office,East,Illinois,Seattle,Office Supplies,Art,Copy Paper,1,498.19,0.3,17.83
+ORD-00439,2023-02-02,Consumer,East,Washington,Columbus,Office Supplies,Storage,Address Labels,10,1218.32,0.3,-149.0
+ORD-00440,2023-09-28,Corporate,Central,California,New York City,Furniture,Furnishings,Wooden Bookcase,2,973.06,0.05,41.42
+ORD-00441,2023-12-30,Consumer,East,Illinois,Houston,Technology,Accessories,Photocopier,10,672.9,0.0,74.58
+ORD-00442,2024-05-17,Consumer,South,Ohio,Houston,Office Supplies,Paper,Marker Set,9,41.56,0.0,10.36
+ORD-00443,2024-02-20,Corporate,Central,Texas,Chicago,Technology,Machines,Smartphone,5,914.45,0.2,116.78
+ORD-00444,2025-02-16,Home Office,South,Washington,New York City,Technology,Accessories,USB Hub,3,95.7,0.05,14.41
+ORD-00445,2024-03-26,Consumer,South,Florida,New York City,Technology,Accessories,Photocopier,8,869.32,0.1,186.08
+ORD-00446,2023-08-14,Corporate,South,Washington,Seattle,Furniture,Chairs,Office Chair,9,1356.09,0.1,172.57
+ORD-00447,2025-07-25,Consumer,East,Florida,Los Angeles,Office Supplies,Binders,Ring Binder,4,550.05,0.3,19.28
+ORD-00448,2023-06-28,Home Office,East,Florida,Houston,Office Supplies,Labels,Storage Box,8,627.97,0.1,84.37
+ORD-00449,2025-07-10,Home Office,Central,Texas,Atlanta,Furniture,Furnishings,Conference Table,8,833.8,0.3,-22.65
+ORD-00450,2025-12-25,Corporate,East,Texas,Seattle,Furniture,Chairs,Desk Lamp,10,829.45,0.1,206.14
+ORD-00451,2024-06-21,Consumer,South,New York,Seattle,Office Supplies,Binders,Storage Box,6,1100.76,0.1,163.0
+ORD-00452,2025-07-03,Home Office,West,Washington,Miami,Office Supplies,Storage,Copy Paper,4,1302.31,0.0,272.41
+ORD-00453,2024-10-23,Corporate,East,Washington,Miami,Technology,Copiers,USB Hub,3,606.08,0.0,52.43
+ORD-00454,2024-10-24,Consumer,Central,California,Los Angeles,Furniture,Tables,Desk Lamp,3,1010.44,0.1,119.57
+ORD-00455,2025-03-23,Home Office,Central,California,Seattle,Technology,Accessories,Smartphone,2,122.35,0.2,5.05
+ORD-00456,2024-06-16,Consumer,Central,Illinois,Chicago,Technology,Accessories,Laser Printer,10,779.5,0.0,117.96
+ORD-00457,2023-02-27,Corporate,Central,Florida,Los Angeles,Office Supplies,Labels,Marker Set,2,634.96,0.3,39.43
+ORD-00458,2023-05-26,Consumer,West,New York,Seattle,Technology,Accessories,Wireless Keyboard,1,555.24,0.0,60.15
+ORD-00459,2023-12-11,Corporate,West,Ohio,New York City,Furniture,Chairs,Office Chair,2,947.91,0.2,133.75
+ORD-00460,2023-12-11,Home Office,South,California,,Furniture,Chairs,Conference Table,6,892.69,0.0,215.37
+ORD-00461,2025-08-13,Corporate,East,California,Miami,Technology,Accessories,Wireless Keyboard,8,612.46,0.2,-19.45
+ORD-00462,2025-12-28,Home Office,East,Florida,Los Angeles,Furniture,Chairs,Office Chair,7,1000.6,0.2,152.24
+ORD-00463,2023-07-10,Home Office,Central,Washington,Los Angeles,Office Supplies,Labels,Copy Paper,9,223.69,0.0,57.65
+ORD-00464,2023-11-04,Consumer,East,Florida,Atlanta,Furniture,Furnishings,Office Chair,7,482.65,0.1,19.02
+ORD-00465,2025-01-04,Consumer,East,Texas,New York City,Technology,Phones,USB Hub,9,244.79,0.05,12.97
+ORD-00466,2024-11-28,Home Office,South,Florida,Houston,Furniture,Chairs,Conference Table,3,652.65,0.15,123.34
+ORD-00467,2023-11-20,Consumer,East,Washington,Columbus,Technology,Copiers,Laser Printer,9,499.12,0.2,-1.42
+ORD-00468,2025-10-10,Home Office,Central,California,Atlanta,Technology,Accessories,Laser Printer,8,1222.34,0.0,229.79
+ORD-00469,2024-06-29,Corporate,Central,Washington,New York City,Furniture,Bookcases,Office Chair,4,237.11,0.15,47.7
+ORD-00470,2025-06-12,Corporate,East,Georgia,New York City,Furniture,Bookcases,Office Chair,2,114.25,0.0,5.85
+ORD-00471,2025-12-18,Home Office,South,Ohio,New York City,Furniture,Tables,Desk Lamp,7,214.9,0.15,33.27
+ORD-00472,2023-10-10,Home Office,East,Illinois,Atlanta,Technology,Machines,Laser Printer,1,723.7,0.2,73.35
+ORD-00473,2024-01-18,Consumer,Central,Texas,Seattle,Technology,Accessories,USB Hub,1,702.13,0.2,105.22
+ORD-00474,2024-02-19,Consumer,East,Washington,Atlanta,Office Supplies,Storage,Marker Set,1,470.28,0.0,89.71
+ORD-00475,2024-01-22,Home Office,West,Washington,Atlanta,Office Supplies,Storage,Copy Paper,9,215.79,0.3,1.01
+ORD-00476,2025-06-07,Corporate,East,Ohio,Seattle,Furniture,Chairs,Office Chair,2,267.84,0.1,11.13
+ORD-00477,2025-08-31,Corporate,West,New York,Columbus,Furniture,Tables,Conference Table,9,901.14,0.1,88.18
+ORD-00478,2025-04-27,Home Office,East,Georgia,Los Angeles,Technology,Phones,Wireless Keyboard,10,88.17,0.3,5.29
+ORD-00479,2024-12-09,Home Office,Central,Illinois,Miami,Furniture,Bookcases,Office Chair,10,345.06,0.0,89.87
+ORD-00480,2024-06-13,Consumer,East,New York,Columbus,Office Supplies,Paper,Address Labels,7,1394.64,0.1,58.27
+ORD-00481,2023-08-16,Corporate,South,Georgia,Los Angeles,Office Supplies,Storage,Storage Box,6,179.88,0.0,40.03
+ORD-00482,2023-08-17,Consumer,East,Ohio,Chicago,Furniture,Chairs,Desk Lamp,7,1226.31,0.2,172.51
+ORD-00483,2023-09-05,Home Office,East,Florida,New York City,Office Supplies,Paper,Copy Paper,2,1480.61,0.2,49.36
+ORD-00484,2024-04-18,Consumer,East,New York,Chicago,Office Supplies,Binders,Marker Set,9,30.33,0.1,1.61
+ORD-00485,2023-03-24,Home Office,East,California,Los Angeles,Technology,Accessories,Smartphone,6,842.21,0.05,110.82
+ORD-00486,2024-07-07,Consumer,East,Illinois,New York City,Office Supplies,Storage,Marker Set,2,1263.2,0.05,231.42
+ORD-00487,2025-06-15,Consumer,West,Washington,New York City,Office Supplies,Binders,Storage Box,4,1299.69,0.0,116.36
+ORD-00488,2024-06-21,Corporate,West,New York,Chicago,Furniture,Chairs,Desk Lamp,1,1257.9,0.1,3.97
+ORD-00489,2025-03-24,Corporate,South,Florida,Seattle,Technology,Copiers,USB Hub,4,1136.71,0.1,160.46
+ORD-00490,2025-03-10,Corporate,Central,Florida,Columbus,Office Supplies,Labels,Ring Binder,9,975.39,0.0,171.49
+ORD-00491,2024-01-26,Consumer,South,Washington,Houston,Office Supplies,Labels,Ring Binder,10,1107.37,0.15,246.37
+ORD-00492,2025-03-16,Home Office,South,Texas,Los Angeles,Furniture,Chairs,Conference Table,7,727.06,0.1,134.65
+ORD-00493,2024-05-29,Home Office,Central,California,Seattle,Furniture,Tables,Office Chair,10,945.64,0.2,11.73
+ORD-00494,2025-07-05,Corporate,South,Texas,Houston,Office Supplies,Art,Copy Paper,1,650.48,0.3,56.35
+ORD-00495,2023-07-06,Consumer,East,New York,Miami,Furniture,Furnishings,Wooden Bookcase,2,719.32,0.05,110.52
+ORD-00496,2025-09-19,Corporate,East,Georgia,Seattle,Furniture,Bookcases,Desk Lamp,10,1093.42,0.05,65.58
+ORD-00497,2025-06-07,Corporate,West,Illinois,Los Angeles,Office Supplies,Binders,Ring Binder,8,475.37,0.3,-41.68
+ORD-00498,2023-06-01,Consumer,Central,Texas,Seattle,Office Supplies,Storage,Address Labels,10,811.15,0.0,71.57
+ORD-00499,2023-05-12,Home Office,East,California,Chicago,Office Supplies,Binders,Ring Binder,2,762.97,0.1,130.04
+ORD-00500,2024-06-14,Home Office,South,Florida,Chicago,Furniture,Bookcases,Wooden Bookcase,10,1380.43,0.1,97.48
+ORD-00501,2023-09-30,Home Office,East,California,Houston,Office Supplies,Labels,Storage Box,1,657.67,0.05,126.19
+ORD-00502,2025-12-05,Home Office,West,Illinois,Columbus,Office Supplies,Storage,Marker Set,4,1211.54,0.2,140.22
+ORD-00503,2025-03-21,Home Office,South,Florida,Columbus,Office Supplies,Paper,Address Labels,10,322.02,0.05,66.05
+ORD-00504,2024-02-02,Home Office,West,Illinois,Houston,Technology,Machines,Photocopier,1,1348.97,0.1,256.39
+ORD-00505,2025-01-15,Corporate,Central,Florida,Atlanta,Office Supplies,Art,Copy Paper,9,549.78,0.05,71.86
+ORD-00506,2023-03-19,Home Office,South,Ohio,New York City,Office Supplies,Art,Marker Set,3,525.63,0.15,-8.71
+ORD-00507,2025-12-10,Corporate,West,New York,Columbus,Office Supplies,Paper,Marker Set,8,720.68,0.2,15.3
+ORD-00508,2024-01-13,Home Office,Central,New York,Seattle,Technology,Phones,Laser Printer,5,1065.77,0.1,187.9
+ORD-00509,2024-02-26,Home Office,West,Illinois,Los Angeles,Furniture,Tables,Office Chair,8,1394.32,0.15,119.3
+ORD-00510,2024-06-05,Consumer,South,Ohio,Houston,Office Supplies,Art,Marker Set,10,170.04,0.2,28.64
+ORD-00511,2023-08-02,Consumer,Central,Texas,Houston,Technology,Copiers,Wireless Keyboard,9,1455.33,0.15,276.56
+ORD-00512,2024-10-13,Home Office,South,Washington,Los Angeles,Office Supplies,Labels,Storage Box,9,623.68,0.05,36.28
+ORD-00513,2024-04-04,Corporate,West,Florida,Chicago,Furniture,Furnishings,Desk Lamp,6,1129.93,0.2,61.58
+ORD-00514,2023-03-27,Corporate,Central,Texas,Columbus,Technology,Machines,Smartphone,10,1382.39,0.0,244.89
+ORD-00515,2023-02-08,Consumer,West,Ohio,Chicago,Technology,Accessories,USB Hub,8,723.57,0.2,113.49
+ORD-00516,2024-06-27,Corporate,East,California,Miami,Office Supplies,Storage,Copy Paper,10,873.68,0.0,51.01
+ORD-00517,2025-07-17,Home Office,Central,Texas,Houston,Office Supplies,Labels,Ring Binder,5,79.09,0.1,11.41
+ORD-00518,2023-05-19,Consumer,Central,Texas,Seattle,Office Supplies,Labels,Marker Set,2,1455.71,0.2,142.8
+ORD-00519,2025-04-12,Corporate,Central,Ohio,New York City,Office Supplies,Storage,Copy Paper,8,640.32,0.0,57.33
+ORD-00520,2024-11-28,Home Office,Central,New York,Houston,Office Supplies,Labels,Storage Box,10,1132.62,0.3,125.8
+ORD-00521,2023-10-09,Home Office,East,Washington,Chicago,Furniture,Tables,Desk Lamp,10,871.98,0.0,160.27
+ORD-00522,2024-01-01,Consumer,Central,New York,Houston,Technology,Phones,USB Hub,2,1270.56,0.1,220.98
+ORD-00523,2023-01-26,Home Office,Central,Ohio,Los Angeles,Technology,Machines,Photocopier,5,1493.36,0.1,113.41
+ORD-00524,2023-07-08,Corporate,South,New York,Atlanta,Technology,Copiers,USB Hub,4,1261.14,0.2,128.94
+ORD-00525,2025-08-07,Consumer,West,California,Miami,Office Supplies,Labels,Ring Binder,4,594.2,0.2,-19.48
+ORD-00526,2025-12-01,Corporate,Central,Georgia,Houston,Furniture,Bookcases,Conference Table,6,427.84,0.05,80.03
+ORD-00527,2023-08-09,Home Office,Central,Washington,Columbus,Technology,Accessories,Laser Printer,3,378.54,0.0,102.03
+ORD-00528,2024-07-26,Home Office,East,Florida,Chicago,Furniture,Bookcases,Desk Lamp,5,287.37,0.3,6.15
+ORD-00529,2024-03-09,Consumer,Central,California,Seattle,Furniture,Tables,Desk Lamp,10,1387.98,0.0,161.74
+ORD-00530,2024-07-14,Corporate,South,Georgia,New York City,Office Supplies,Binders,Storage Box,6,1197.58,0.0,137.64
+ORD-00531,2025-09-17,Corporate,West,Georgia,Seattle,Technology,Accessories,Smartphone,8,479.86,0.1,102.56
+ORD-00532,2025-09-30,Corporate,South,New York,Miami,Office Supplies,Binders,Address Labels,4,1140.25,0.15,181.16
+ORD-00533,2025-12-03,Home Office,Central,Georgia,Miami,Furniture,Furnishings,Wooden Bookcase,10,1243.17,0.1,4.93
+ORD-00534,2024-02-07,Consumer,Central,Texas,Chicago,Furniture,Chairs,Wooden Bookcase,2,279.99,0.1,43.64
+ORD-00535,2023-11-21,Corporate,Central,Florida,New York City,Technology,Phones,Photocopier,7,1482.42,0.1,54.33
+ORD-00536,2024-01-27,Consumer,West,Georgia,New York City,Office Supplies,Paper,Storage Box,1,1086.28,0.05,93.86
+ORD-00537,2025-03-30,Home Office,East,California,Columbus,Furniture,Chairs,Office Chair,8,653.96,0.0,150.55
+ORD-00538,2023-04-05,Corporate,South,California,Miami,Office Supplies,Binders,Address Labels,6,1365.12,0.2,64.93
+ORD-00539,2024-09-23,Consumer,East,Ohio,Los Angeles,Office Supplies,Art,Marker Set,5,878.15,0.05,86.98
+ORD-00540,2024-07-05,Consumer,East,Illinois,New York City,Furniture,Chairs,Wooden Bookcase,3,1100.4,0.05,63.65
+ORD-00541,2024-01-08,Home Office,West,Washington,Atlanta,Furniture,Tables,Office Chair,1,1366.2,0.0,323.05
+ORD-00542,2025-11-06,Consumer,East,New York,Miami,Technology,Accessories,Wireless Keyboard,2,685.92,0.15,88.46
+ORD-00543,2023-07-23,Consumer,South,California,Seattle,Furniture,Tables,Wooden Bookcase,4,912.8,0.0,159.8
+ORD-00544,2025-03-08,Consumer,South,Florida,Houston,Office Supplies,Paper,Ring Binder,8,1229.44,0.0,314.76
+ORD-00545,2025-03-05,Home Office,West,Florida,Chicago,Furniture,Bookcases,Desk Lamp,3,520.21,0.15,11.36
+ORD-00546,2025-11-16,Corporate,West,Ohio,Seattle,Office Supplies,Storage,Storage Box,2,988.43,0.2,40.67
+ORD-00547,2024-05-25,Corporate,South,Florida,Houston,Technology,Accessories,Wireless Keyboard,9,1303.25,0.0,354.94
+ORD-00548,2023-07-13,Consumer,East,Florida,Seattle,Furniture,Tables,Desk Lamp,6,414.82,0.0,42.72
+ORD-00549,2023-05-20,Home Office,Central,Washington,Los Angeles,Technology,Copiers,Smartphone,10,494.69,0.0,59.95
+ORD-00550,2023-01-17,Corporate,South,Ohio,Miami,Office Supplies,Paper,Copy Paper,4,619.56,0.0,152.09
+ORD-00551,2023-11-10,Consumer,East,Texas,,Technology,Machines,Wireless Keyboard,3,332.24,0.2,-15.75
+ORD-00552,2024-05-23,Home Office,East,Ohio,Houston,Office Supplies,Storage,Storage Box,1,937.95,0.1,51.04
+ORD-00553,2024-12-17,Corporate,South,Illinois,Atlanta,Furniture,Furnishings,Conference Table,3,226.19,0.2,42.67
+ORD-00554,2025-12-15,Home Office,West,Ohio,New York City,Furniture,Chairs,Desk Lamp,9,1171.04,0.2,220.57
+ORD-00555,2025-02-08,Consumer,Central,New York,Los Angeles,Furniture,Furnishings,Desk Lamp,9,1171.02,0.0,105.96
+ORD-00556,2023-03-25,Consumer,South,Florida,Houston,Office Supplies,Storage,Storage Box,7,1481.31,0.0,299.72
+ORD-00557,2023-09-16,Consumer,West,Ohio,Atlanta,Office Supplies,Binders,Ring Binder,8,513.99,0.1,111.02
+ORD-00558,2025-04-18,Home Office,South,Georgia,Seattle,Office Supplies,Art,Copy Paper,2,1395.88,0.0,279.27
+ORD-00559,2023-11-22,Home Office,South,California,Chicago,Furniture,Furnishings,Wooden Bookcase,7,177.2,0.2,24.64
+ORD-00560,2023-02-18,Consumer,Central,Illinois,Atlanta,Furniture,Bookcases,Desk Lamp,4,413.03,0.2,2.29
+ORD-00561,2024-11-12,Corporate,East,New York,Seattle,Office Supplies,Labels,Address Labels,2,346.08,0.0,63.87
+ORD-00562,2023-06-30,Home Office,West,New York,Chicago,Office Supplies,Labels,Ring Binder,7,1245.72,0.15,54.67
+ORD-00563,2024-03-28,Corporate,South,Illinois,New York City,Technology,Accessories,Wireless Keyboard,7,1235.29,0.3,59.73
+ORD-00564,2025-11-28,Home Office,East,Illinois,Houston,Technology,Phones,USB Hub,4,706.72,0.2,72.96
+ORD-00565,2025-01-04,Home Office,South,California,Chicago,Office Supplies,Paper,Storage Box,6,1463.89,0.0,349.9
+ORD-00566,2025-06-15,Home Office,South,Washington,Miami,Furniture,Bookcases,Wooden Bookcase,9,1132.66,0.1,95.21
+ORD-00567,2023-09-15,Consumer,West,Texas,Chicago,Office Supplies,Art,Address Labels,2,714.16,0.3,86.2
+ORD-00568,2024-01-22,Consumer,South,Ohio,Atlanta,Office Supplies,Labels,Ring Binder,10,999.48,0.2,132.37
+ORD-00569,2023-05-03,Home Office,West,Illinois,Columbus,Technology,Copiers,Wireless Keyboard,1,37.64,0.0,8.08
+ORD-00570,2023-12-24,Corporate,East,Ohio,New York City,Technology,Machines,USB Hub,9,1318.14,0.0,232.82
+ORD-00571,2023-01-31,Corporate,East,Washington,Chicago,Furniture,Furnishings,Wooden Bookcase,2,526.74,0.1,12.21
+ORD-00572,2024-07-02,Corporate,West,Florida,Chicago,Furniture,Tables,Desk Lamp,6,1422.74,0.05,86.2
+ORD-00573,2024-08-25,Home Office,Central,California,Los Angeles,Office Supplies,Labels,Ring Binder,8,1450.51,0.1,84.09
+ORD-00574,2023-10-10,Consumer,East,Washington,Houston,Technology,Phones,USB Hub,10,212.19,0.15,34.01
+ORD-00575,2023-01-06,Home Office,Central,Ohio,Chicago,Office Supplies,Paper,Marker Set,10,935.06,0.2,101.27
+ORD-00576,2025-02-01,Consumer,South,Georgia,Atlanta,Office Supplies,Labels,Marker Set,1,68.86,0.3,-3.45
+ORD-00577,2024-06-19,Consumer,Central,Texas,Chicago,Technology,Machines,Photocopier,10,1143.29,0.1,277.11
+ORD-00578,2024-12-05,Consumer,South,Georgia,Seattle,Furniture,Bookcases,Conference Table,10,478.0,0.1,40.18
+ORD-00579,2023-11-11,Home Office,East,Texas,Seattle,Office Supplies,Paper,Ring Binder,7,1374.63,0.05,341.53
+ORD-00580,2024-11-06,Corporate,South,Washington,Atlanta,Technology,Accessories,Smartphone,1,714.21,0.0,170.13
+ORD-00581,2024-09-10,Home Office,South,California,Chicago,Technology,Phones,Wireless Keyboard,4,1263.23,0.1,60.78
+ORD-00582,2024-01-19,Consumer,East,Ohio,Houston,Office Supplies,Paper,Ring Binder,7,46.15,0.0,4.14
+ORD-00583,2024-05-28,Consumer,South,Ohio,Los Angeles,Technology,Machines,Smartphone,4,30.12,0.1,5.61
+ORD-00584,2023-05-20,Home Office,East,New York,Los Angeles,Office Supplies,Storage,Marker Set,7,342.27,0.0,62.26
+ORD-00585,2025-07-17,Consumer,Central,Illinois,Houston,Office Supplies,Storage,Ring Binder,4,119.58,0.05,28.58
+ORD-00586,2025-01-23,Corporate,Central,Washington,Chicago,Office Supplies,Binders,Copy Paper,9,161.43,0.2,23.76
+ORD-00587,2024-07-23,Home Office,East,Texas,Houston,Office Supplies,Paper,Address Labels,9,1212.13,0.0,175.94
+ORD-00588,2025-07-15,Corporate,East,Florida,Chicago,Furniture,Furnishings,Desk Lamp,9,111.41,0.15,15.49
+ORD-00589,2024-01-21,Consumer,Central,Illinois,Columbus,Furniture,Bookcases,Conference Table,3,951.93,0.1,27.6
+ORD-00590,2023-06-21,Consumer,East,Illinois,Columbus,Technology,Machines,Smartphone,2,380.69,0.05,58.83
+ORD-00591,2025-06-04,Home Office,East,Illinois,Columbus,Office Supplies,Storage,Ring Binder,7,463.81,0.0,90.92
+ORD-00592,2024-03-25,Consumer,East,California,Houston,Office Supplies,Storage,Marker Set,7,1367.12,0.0,265.44
+ORD-00593,2024-01-16,Home Office,East,Texas,New York City,Office Supplies,Labels,Storage Box,8,1325.32,0.3,-57.47
+ORD-00594,2024-12-27,Home Office,South,Georgia,Atlanta,Technology,Phones,Laser Printer,8,955.54,0.1,144.1
+ORD-00595,2024-01-02,Consumer,Central,California,New York City,Furniture,Bookcases,Desk Lamp,7,586.7,0.0,76.8
+ORD-00596,2023-09-26,Home Office,East,Illinois,Columbus,Furniture,Chairs,Office Chair,1,821.03,0.0,173.45
+ORD-00597,2024-02-26,Consumer,East,Georgia,Los Angeles,Office Supplies,Labels,Ring Binder,2,1376.8,0.2,85.21
+ORD-00598,2023-03-11,Corporate,East,California,Seattle,Technology,Phones,Photocopier,6,705.54,0.1,157.46
+ORD-00599,2023-09-08,Consumer,Central,Illinois,Chicago,Technology,Machines,Wireless Keyboard,9,263.56,0.1,57.35
+ORD-00600,2025-04-17,Home Office,South,Texas,Atlanta,Office Supplies,Storage,Storage Box,7,442.4,0.1,7.47
+ORD-00601,2023-05-09,Consumer,Central,Ohio,Miami,Furniture,Bookcases,Wooden Bookcase,2,168.68,,4.27
+ORD-00602,2023-01-29,Corporate,South,Washington,Houston,Technology,Accessories,Photocopier,3,960.19,0.0,93.68
+ORD-00603,2023-06-15,Corporate,East,Georgia,Seattle,Office Supplies,Binders,Storage Box,3,623.75,0.3,36.32
+ORD-00604,2025-03-16,Consumer,East,Texas,Houston,Furniture,Chairs,Wooden Bookcase,7,218.36,0.0,53.32
+ORD-00605,2024-09-30,Consumer,West,Florida,Chicago,Technology,Copiers,Photocopier,8,525.37,0.0,124.59
+ORD-00606,2025-10-05,Home Office,Central,New York,Chicago,Office Supplies,Labels,Ring Binder,2,815.62,0.1,152.96
+ORD-00607,2025-01-08,Home Office,East,Georgia,Los Angeles,Technology,Machines,Smartphone,2,1005.6,0.2,-21.27
+ORD-00608,2025-07-16,Corporate,Central,Ohio,Miami,Furniture,Furnishings,Wooden Bookcase,10,738.23,0.0,146.98
+ORD-00609,2023-11-28,Home Office,West,California,Los Angeles,Furniture,Bookcases,Desk Lamp,5,885.7,0.05,43.6
+ORD-00610,2023-07-19,Corporate,Central,Georgia,Atlanta,Furniture,Furnishings,Wooden Bookcase,8,829.43,0.1,32.91
+ORD-00611,2024-12-28,Corporate,Central,Ohio,Atlanta,Furniture,Tables,Wooden Bookcase,9,170.8,0.0,32.75
+ORD-00612,2025-09-04,Consumer,South,Illinois,Columbus,Office Supplies,Art,Ring Binder,1,589.96,0.1,21.11
+ORD-00613,2025-02-20,Consumer,East,Illinois,Seattle,Technology,Copiers,Wireless Keyboard,1,136.82,0.0,21.77
+ORD-00614,2024-08-11,Home Office,East,New York,Chicago,Office Supplies,Labels,Marker Set,2,745.66,0.2,134.96
+ORD-00615,2023-11-22,Home Office,East,California,New York City,Furniture,Furnishings,Office Chair,3,914.77,0.1,109.13
+ORD-00616,2023-08-10,Consumer,West,Texas,Chicago,Furniture,Bookcases,Wooden Bookcase,1,72.04,0.05,11.26
+ORD-00617,2025-03-19,Consumer,East,New York,Miami,Technology,Phones,USB Hub,6,697.49,0.2,4.5
+ORD-00618,2025-02-07,Consumer,West,Ohio,Seattle,Furniture,Tables,Wooden Bookcase,5,323.37,0.15,-5.47
+ORD-00619,2024-09-09,Home Office,South,Georgia,New York City,Office Supplies,Paper,Copy Paper,1,788.43,0.0,61.83
+ORD-00620,2025-11-26,Corporate,Central,New York,Atlanta,Technology,Accessories,Laser Printer,10,750.44,0.1,9.25
+ORD-00621,2024-03-08,Home Office,West,New York,New York City,Office Supplies,Storage,Address Labels,7,774.39,0.05,56.28
+ORD-00622,2023-03-25,Corporate,Central,Texas,New York City,Furniture,Chairs,Wooden Bookcase,4,627.54,0.3,29.07
+ORD-00623,2024-03-14,Home Office,South,Georgia,Chicago,Technology,Copiers,Wireless Keyboard,2,60.66,0.1,15.76
+ORD-00624,2025-11-04,Consumer,South,Washington,Los Angeles,Technology,Phones,Photocopier,3,1005.16,0.1,252.84
+ORD-00625,2024-01-06,Consumer,West,Florida,Columbus,Technology,Phones,USB Hub,3,102.77,0.0,6.39
+ORD-00626,2023-03-08,Corporate,East,Ohio,Columbus,Furniture,Bookcases,Wooden Bookcase,4,866.08,0.05,172.01
+ORD-00627,2025-10-02,Consumer,East,Florida,Columbus,Technology,Accessories,Photocopier,6,459.88,0.0,38.4
+ORD-00628,2023-10-01,Consumer,East,Ohio,Atlanta,Office Supplies,Paper,Storage Box,9,1433.49,0.15,-45.53
+ORD-00629,2024-01-14,Corporate,South,Florida,Chicago,Technology,Accessories,Wireless Keyboard,2,487.02,0.2,47.7
+ORD-00630,2023-10-13,Consumer,South,Florida,Chicago,Furniture,Furnishings,Desk Lamp,8,562.5,0.05,33.67
+ORD-00631,2023-02-22,Home Office,South,Ohio,Seattle,Technology,Copiers,Photocopier,2,1434.74,0.0,188.86
+ORD-00632,2025-09-28,Home Office,South,Florida,Seattle,Office Supplies,Art,Address Labels,10,1267.85,0.15,151.7
+ORD-00633,2024-02-07,Corporate,South,Ohio,Houston,Technology,Machines,USB Hub,10,760.43,0.1,52.88
+ORD-00634,2023-04-29,Home Office,West,California,New York City,Furniture,Furnishings,Conference Table,8,191.1,0.05,5.85
+ORD-00635,2025-11-11,Corporate,West,Texas,New York City,Technology,Machines,Smartphone,3,302.05,0.1,74.05
+ORD-00636,2024-12-13,Home Office,West,Florida,Chicago,Office Supplies,Storage,Storage Box,2,690.08,0.2,119.84
+ORD-00637,2025-01-18,Home Office,South,Ohio,Miami,Office Supplies,Art,Ring Binder,3,773.15,0.0,106.93
+ORD-00638,2023-05-17,Corporate,West,California,Houston,Furniture,Chairs,Conference Table,8,1122.0,0.3,40.63
+ORD-00639,2023-06-01,Corporate,West,Ohio,Seattle,Office Supplies,Binders,Storage Box,2,481.04,0.2,40.06
+ORD-00640,2023-12-14,Home Office,West,Ohio,Chicago,Furniture,Tables,Conference Table,8,557.04,0.15,91.09
+ORD-00641,2024-02-09,Consumer,Central,California,Miami,Office Supplies,Art,Address Labels,10,978.63,0.0,188.06
+ORD-00642,2025-08-26,Corporate,South,Ohio,Atlanta,Furniture,Furnishings,Office Chair,1,486.82,0.15,105.95
+ORD-00643,2023-08-06,Consumer,East,Florida,Seattle,Furniture,Bookcases,Conference Table,7,206.04,0.1,35.1
+ORD-00644,2024-12-08,Home Office,South,Ohio,New York City,Technology,Phones,Photocopier,4,128.17,0.05,32.75
+ORD-00645,2024-07-20,Home Office,South,Florida,Seattle,Furniture,Furnishings,Wooden Bookcase,7,1382.74,0.3,104.53
+ORD-00646,2023-05-10,Consumer,South,Florida,Los Angeles,Furniture,Chairs,Wooden Bookcase,2,881.57,0.05,61.88
+ORD-00647,2025-05-08,Corporate,Central,Washington,Atlanta,Office Supplies,Art,Address Labels,9,78.34,0.15,11.97
+ORD-00648,2023-04-09,Consumer,Central,Florida,New York City,Technology,Accessories,USB Hub,7,1104.66,0.1,281.48
+ORD-00649,2023-12-03,Corporate,West,New York,Los Angeles,Technology,Accessories,Smartphone,10,675.57,0.1,143.96
+ORD-00650,2023-01-20,Consumer,West,New York,Columbus,Office Supplies,Labels,Ring Binder,1,997.3,0.1,24.67
+ORD-00651,2025-07-01,Home Office,East,Washington,Miami,Furniture,Chairs,Desk Lamp,9,480.29,0.2,64.7
+ORD-00652,2023-08-14,Home Office,West,New York,Miami,Technology,Copiers,Wireless Keyboard,6,888.39,0.0,193.61
+ORD-00653,2024-01-29,Home Office,East,Florida,Columbus,Furniture,Furnishings,Conference Table,8,746.4,0.0,143.39
+ORD-00654,2025-12-05,Corporate,South,Illinois,Atlanta,Technology,Phones,Wireless Keyboard,6,51.13,0.15,-0.11
+ORD-00655,2025-12-13,Home Office,East,Georgia,Los Angeles,Office Supplies,Paper,Storage Box,2,93.4,0.0,5.38
+ORD-00656,2025-12-03,Corporate,Central,New York,New York City,Technology,Accessories,Smartphone,1,1423.33,0.1,226.22
+ORD-00657,2023-09-24,Home Office,Central,Florida,Seattle,Technology,Machines,Laser Printer,6,1198.75,0.1,181.97
+ORD-00658,2023-11-19,Home Office,East,Florida,Chicago,Furniture,Furnishings,Desk Lamp,2,552.49,0.1,142.31
+ORD-00659,2024-01-31,Consumer,South,Georgia,Los Angeles,Office Supplies,Art,Storage Box,10,1064.86,0.0,148.44
+ORD-00660,2023-08-13,Home Office,Central,Illinois,Columbus,Technology,Phones,Wireless Keyboard,7,722.19,0.0,50.19
+ORD-00661,2023-12-10,Home Office,South,Texas,Chicago,Furniture,Chairs,Wooden Bookcase,1,1271.36,0.2,157.22
+ORD-00662,2023-07-15,Home Office,South,Washington,Los Angeles,Furniture,Bookcases,Conference Table,2,1440.48,0.15,272.32
+ORD-00663,2024-12-15,Corporate,Central,Texas,Los Angeles,Technology,Machines,USB Hub,8,502.64,0.0,132.1
+ORD-00664,2023-06-14,Corporate,South,Texas,New York City,Technology,Phones,Laser Printer,7,1469.31,0.15,251.99
+ORD-00665,2023-12-06,Consumer,Central,California,Chicago,Office Supplies,Art,Storage Box,1,32.57,0.2,5.13
+ORD-00666,2024-10-18,Consumer,West,Illinois,Houston,Technology,Accessories,USB Hub,6,919.64,0.1,171.14
+ORD-00667,2024-08-23,Home Office,Central,Ohio,Chicago,Office Supplies,Art,Address Labels,10,851.92,0.0,57.98
+ORD-00668,2024-06-03,Consumer,East,Georgia,Atlanta,Furniture,Tables,Desk Lamp,8,764.5,0.15,137.12
+ORD-00669,2024-12-30,Consumer,South,Illinois,Los Angeles,Office Supplies,Paper,Ring Binder,9,691.86,0.05,77.46
+ORD-00670,2024-02-05,Home Office,West,Florida,Chicago,Office Supplies,Storage,Marker Set,8,809.55,0.1,67.87
+ORD-00671,2023-12-22,Corporate,East,New York,Miami,Furniture,Tables,Conference Table,8,1177.26,0.0,82.35
+ORD-00672,2025-05-07,Consumer,East,Texas,Columbus,Furniture,Tables,Office Chair,8,1093.69,0.0,156.91
+ORD-00673,2025-02-17,Corporate,East,Florida,Houston,Office Supplies,Binders,Marker Set,10,1120.08,,224.72
+ORD-00674,2023-05-08,Consumer,East,Georgia,Atlanta,Furniture,Tables,Office Chair,7,398.69,0.1,73.57
+ORD-00675,2024-09-19,Home Office,West,Washington,New York City,Technology,Machines,Laser Printer,10,300.54,0.2,32.85
+ORD-00676,2025-12-02,Corporate,West,Texas,Atlanta,Office Supplies,Art,Ring Binder,10,241.67,0.0,52.63
+ORD-00677,2023-05-29,Home Office,Central,Florida,Chicago,Furniture,Bookcases,Conference Table,8,127.81,0.3,-1.04
+ORD-00678,2023-11-07,Home Office,Central,New York,Atlanta,Office Supplies,Binders,Marker Set,8,794.27,0.2,11.03
+ORD-00679,2025-04-28,Consumer,South,New York,New York City,Furniture,Chairs,Wooden Bookcase,10,613.31,0.05,120.58
+ORD-00680,2025-03-10,Corporate,East,Florida,Seattle,Office Supplies,Storage,Copy Paper,10,1116.51,0.15,62.64
+ORD-00681,2023-04-20,Corporate,South,California,Columbus,Office Supplies,Binders,Marker Set,1,1201.76,0.05,114.84
+ORD-00682,2024-12-16,Corporate,Central,Georgia,Columbus,Furniture,Furnishings,Office Chair,10,1288.4,0.1,49.81
+ORD-00683,2024-05-01,Consumer,West,California,New York City,Technology,Copiers,USB Hub,3,1123.69,0.0,204.81
+ORD-00684,2024-05-19,Corporate,East,Ohio,Seattle,Furniture,Chairs,Office Chair,10,530.0,0.0,95.15
+ORD-00685,2024-06-23,Consumer,West,Texas,Atlanta,Office Supplies,Labels,Storage Box,3,1295.53,0.1,304.18
+ORD-00686,2025-07-06,Corporate,Central,Illinois,Los Angeles,Technology,Machines,Laser Printer,9,889.27,0.0,241.41
+ORD-00687,2024-11-30,Consumer,West,Illinois,Los Angeles,Office Supplies,Paper,Ring Binder,6,115.46,0.3,7.06
+ORD-00688,2025-11-17,Consumer,East,Florida,Atlanta,Furniture,Bookcases,Desk Lamp,4,961.44,0.0,143.12
+ORD-00689,2025-02-07,Corporate,South,Texas,Houston,Office Supplies,Labels,Address Labels,7,837.44,0.1,69.6
+ORD-00690,2023-12-20,Consumer,West,Ohio,Atlanta,Technology,Phones,Wireless Keyboard,7,1242.31,0.05,159.92
+ORD-00691,2024-09-10,Consumer,South,Washington,Atlanta,Technology,Phones,Photocopier,1,799.69,0.0,60.32
+ORD-00692,2024-04-01,Home Office,West,Washington,Los Angeles,Technology,Phones,Laser Printer,10,1239.92,0.1,94.65
+ORD-00693,2023-12-22,Corporate,West,Georgia,Los Angeles,Technology,Phones,Laser Printer,6,1404.91,0.1,261.54
+ORD-00694,2023-12-16,Corporate,East,Ohio,Columbus,Office Supplies,Storage,Copy Paper,2,786.05,0.0,213.26
+ORD-00695,2023-05-27,Corporate,West,Georgia,Houston,Office Supplies,Labels,Address Labels,6,936.3,0.0,255.28
+ORD-00696,2025-05-27,Consumer,East,Texas,Columbus,Furniture,Tables,Conference Table,3,1259.43,0.05,191.05
+ORD-00697,2024-04-21,Corporate,Central,New York,Los Angeles,Office Supplies,Binders,Storage Box,9,1366.19,0.15,-22.73
+ORD-00698,2025-12-06,Home Office,East,California,Miami,Technology,Machines,Wireless Keyboard,9,285.88,0.1,67.23
+ORD-00699,2023-10-24,Home Office,West,Ohio,Houston,Furniture,Bookcases,Office Chair,2,287.34,0.1,57.6
+ORD-00700,2023-05-18,Corporate,South,Florida,New York City,Furniture,Chairs,Conference Table,6,177.29,0.2,13.32
+ORD-00701,2024-02-22,Corporate,East,Florida,Seattle,Furniture,Bookcases,Office Chair,1,1346.43,0.2,-1.57
+ORD-00702,2023-01-03,Home Office,South,Georgia,Miami,Office Supplies,Binders,Address Labels,3,1152.6,0.05,101.44
+ORD-00703,2023-10-18,Home Office,Central,Florida,Chicago,Furniture,Tables,Conference Table,5,451.96,0.0,62.03
+ORD-00704,2023-07-24,Home Office,Central,Florida,Miami,Office Supplies,Art,Storage Box,9,585.71,0.05,111.0
+ORD-00705,2025-05-30,Home Office,East,New York,Atlanta,Office Supplies,Labels,Marker Set,10,862.62,0.05,182.45
+ORD-00706,2023-12-18,Home Office,Central,Georgia,Miami,Furniture,Chairs,Conference Table,1,1149.68,0.0,117.95
+ORD-00707,2024-08-18,Consumer,West,Florida,New York City,Office Supplies,Binders,Storage Box,5,453.36,0.05,69.85
+ORD-00708,2024-08-28,Corporate,South,Texas,Seattle,Office Supplies,Storage,Marker Set,1,1278.64,0.1,79.36
+ORD-00709,2025-09-11,Corporate,South,Illinois,Seattle,Office Supplies,Binders,Marker Set,4,1161.44,0.0,109.93
+ORD-00710,2025-12-14,Consumer,East,California,Seattle,Furniture,Tables,Office Chair,9,1211.15,0.05,268.28
+ORD-00711,2024-05-09,Corporate,East,Ohio,Columbus,Furniture,Tables,Wooden Bookcase,9,694.33,0.15,143.08
+ORD-00712,2023-02-26,Home Office,Central,Illinois,Seattle,Furniture,Bookcases,Wooden Bookcase,8,577.68,0.1,16.17
+ORD-00713,2024-10-03,Corporate,East,California,Seattle,Furniture,Bookcases,Office Chair,7,766.31,0.2,59.51
+ORD-00714,2025-12-10,Consumer,Central,Ohio,Miami,Technology,Copiers,Photocopier,9,1056.67,0.1,22.1
+ORD-00715,2023-05-28,Corporate,South,Georgia,Los Angeles,Furniture,Furnishings,Desk Lamp,9,692.24,0.2,97.76
+ORD-00716,2025-10-31,Consumer,Central,Florida,Chicago,Furniture,Bookcases,Desk Lamp,9,242.9,0.3,-0.32
+ORD-00717,2024-01-24,Consumer,Central,California,New York City,Furniture,Tables,Office Chair,9,1396.21,0.1,204.99
+ORD-00718,2025-05-07,Corporate,East,California,Houston,Furniture,Tables,Conference Table,8,686.08,0.05,87.96
+ORD-00719,2024-01-08,Corporate,West,Florida,Seattle,Office Supplies,Storage,Ring Binder,10,1212.3,0.0,317.46
+ORD-00720,2024-10-25,Corporate,South,Illinois,Miami,Office Supplies,Binders,Marker Set,8,795.75,0.05,22.97
+ORD-00721,2025-09-15,Home Office,West,California,Los Angeles,Furniture,Furnishings,Desk Lamp,2,988.26,0.05,256.49
+ORD-00722,2025-12-17,Home Office,East,Florida,Seattle,Office Supplies,Art,Copy Paper,9,382.22,0.2,20.5
+ORD-00723,2025-12-15,Consumer,South,Washington,Chicago,Technology,Machines,Wireless Keyboard,4,503.8,0.0,106.42
+ORD-00724,2024-03-17,Home Office,West,Ohio,Atlanta,Furniture,Chairs,Desk Lamp,10,733.35,0.0,83.58
+ORD-00725,2023-12-25,Corporate,East,Georgia,Columbus,Technology,Accessories,Wireless Keyboard,7,739.93,0.15,138.67
+ORD-00726,2025-02-27,Consumer,East,New York,New York City,Technology,Phones,USB Hub,4,88.68,0.15,9.95
+ORD-00727,2024-02-16,Home Office,Central,Georgia,Miami,Office Supplies,Labels,Address Labels,5,1337.53,0.05,295.96
+ORD-00728,2025-07-22,Corporate,Central,Illinois,Miami,Technology,Accessories,Photocopier,10,1299.52,0.1,143.34
+ORD-00729,2023-01-13,Corporate,East,Ohio,Miami,Furniture,Furnishings,Wooden Bookcase,3,579.95,0.15,12.51
+ORD-00730,2025-12-03,Consumer,West,Texas,Chicago,Office Supplies,Paper,Marker Set,4,357.59,0.3,35.51
+ORD-00731,2023-09-14,Consumer,West,New York,New York City,Furniture,Tables,Conference Table,7,1332.19,0.05,113.25
+ORD-00732,2025-03-08,Home Office,West,Washington,Houston,Office Supplies,Paper,Storage Box,5,394.09,0.1,34.84
+ORD-00733,2025-03-05,Consumer,West,Ohio,Columbus,Office Supplies,Binders,Address Labels,5,1077.76,0.3,94.74
+ORD-00734,2023-03-14,Corporate,West,Illinois,Houston,Office Supplies,Labels,Storage Box,10,182.83,0.3,21.2
+ORD-00735,2023-03-01,Home Office,East,California,New York City,Furniture,Bookcases,Desk Lamp,9,927.49,0.2,128.77
+ORD-00736,2025-01-03,Corporate,West,New York,Chicago,Office Supplies,Art,Copy Paper,7,1296.9,0.0,307.18
+ORD-00737,2023-07-06,Corporate,East,Ohio,New York City,Furniture,Bookcases,Conference Table,1,94.75,0.0,20.44
+ORD-00738,2024-07-21,Corporate,East,Ohio,Chicago,Technology,Machines,Smartphone,6,137.89,0.0,21.1
+ORD-00739,2025-07-26,Home Office,West,Georgia,Houston,Office Supplies,Labels,Copy Paper,10,1315.01,0.05,62.84
+ORD-00740,2023-12-23,Consumer,East,Illinois,New York City,Technology,Phones,Smartphone,9,766.02,0.1,44.26
+ORD-00741,2025-03-03,Consumer,West,Georgia,Columbus,Furniture,Furnishings,Office Chair,1,257.86,0.3,-4.3
+ORD-00742,2024-02-24,Corporate,Central,Georgia,Los Angeles,Furniture,Tables,Conference Table,1,1011.56,0.0,110.3
+ORD-00743,2024-02-21,Corporate,East,Illinois,Columbus,Office Supplies,Art,Ring Binder,7,27.99,0.15,5.97
+ORD-00744,2024-08-23,Corporate,East,Florida,Los Angeles,Office Supplies,Binders,Ring Binder,3,306.81,0.0,67.43
+ORD-00745,2024-07-11,Consumer,Central,New York,Chicago,Office Supplies,Binders,Storage Box,5,366.41,0.0,40.95
+ORD-00746,2024-01-18,Home Office,West,Ohio,Columbus,Technology,Machines,Photocopier,1,778.61,0.05,107.35
+ORD-00747,2024-10-05,Consumer,South,Illinois,Columbus,Technology,Copiers,Laser Printer,5,269.29,0.2,43.61
+ORD-00748,2024-11-10,Home Office,Central,Florida,Miami,Office Supplies,Paper,Marker Set,6,248.14,0.2,34.19
+ORD-00749,2023-12-03,Corporate,West,Georgia,New York City,Technology,Accessories,Wireless Keyboard,7,262.14,,22.45
+ORD-00750,2023-08-30,Corporate,Central,Washington,,Technology,Phones,Wireless Keyboard,1,1344.41,0.0,175.01
+ORD-00751,2023-05-03,Home Office,Central,New York,Atlanta,Technology,Phones,Photocopier,10,1035.32,0.0,67.39
+ORD-00752,2025-04-05,Home Office,South,Florida,New York City,Technology,Accessories,USB Hub,8,280.06,0.1,32.27
+ORD-00753,2025-12-26,Home Office,Central,Florida,Houston,Furniture,Chairs,Wooden Bookcase,1,147.15,0.15,4.18
+ORD-00754,2025-02-23,Home Office,West,New York,Chicago,Office Supplies,Art,Address Labels,3,101.56,0.2,17.27
+ORD-00755,2025-12-26,Home Office,South,Florida,Los Angeles,Furniture,Tables,Wooden Bookcase,5,1294.0,0.0,75.17
+ORD-00756,2023-06-25,Consumer,East,Texas,New York City,Office Supplies,Art,Ring Binder,3,1266.71,0.2,-18.58
+ORD-00757,2024-08-22,Corporate,Central,Texas,New York City,Technology,Phones,Wireless Keyboard,9,159.11,0.05,39.34
+ORD-00758,2025-06-09,Consumer,East,Ohio,Los Angeles,Office Supplies,Storage,Ring Binder,1,587.63,0.2,69.5
+ORD-00759,2025-09-11,Home Office,Central,Ohio,Seattle,Furniture,Chairs,Office Chair,1,755.81,0.15,-20.73
+ORD-00760,2024-08-21,Home Office,West,Texas,Los Angeles,Technology,Machines,Wireless Keyboard,1,1319.02,0.2,213.58
+ORD-00761,2023-11-08,Corporate,Central,Washington,Columbus,Technology,Copiers,USB Hub,5,127.41,0.2,1.54
+ORD-00762,2024-09-25,Corporate,Central,Illinois,Columbus,Office Supplies,Labels,Ring Binder,10,1028.56,0.05,240.91
+ORD-00763,2025-12-21,Home Office,West,Washington,Houston,Furniture,Chairs,Wooden Bookcase,4,832.92,0.15,159.05
+ORD-00764,2025-04-25,Corporate,South,Georgia,Atlanta,Office Supplies,Binders,Copy Paper,3,1090.62,0.05,249.63
+ORD-00765,2024-02-21,Home Office,Central,Washington,Columbus,Technology,Phones,Laser Printer,5,1187.78,0.05,152.31
+ORD-00766,2024-05-04,Corporate,South,Ohio,Miami,Furniture,Chairs,Conference Table,6,699.28,0.0,186.44
+ORD-00767,2025-01-04,Consumer,East,Georgia,Miami,Technology,Machines,Wireless Keyboard,5,685.41,0.0,114.34
+ORD-00768,2024-01-16,Home Office,West,Washington,Los Angeles,Office Supplies,Storage,Address Labels,8,1251.71,0.05,264.45
+ORD-00769,2024-08-02,Corporate,West,Georgia,Atlanta,Office Supplies,Binders,Copy Paper,4,1106.72,0.05,214.4
+ORD-00770,2025-11-22,Corporate,Central,Illinois,Atlanta,Technology,Phones,Photocopier,1,677.64,0.3,-65.41
+ORD-00771,2025-11-14,Home Office,South,Ohio,Chicago,Furniture,Tables,Office Chair,10,435.99,0.15,14.0
+ORD-00772,2024-05-09,Home Office,Central,California,Seattle,Furniture,Bookcases,Conference Table,6,1212.51,0.15,44.16
+ORD-00773,2023-12-11,Consumer,Central,Georgia,Miami,Office Supplies,Storage,Marker Set,8,1021.06,0.0,222.38
+ORD-00774,2025-11-18,Corporate,Central,California,Houston,Office Supplies,Paper,Marker Set,7,873.79,0.0,149.67
+ORD-00775,2023-08-25,Corporate,South,Washington,Columbus,Furniture,Tables,Wooden Bookcase,7,844.37,0.2,210.65
+ORD-00776,2025-06-04,Consumer,Central,Ohio,Atlanta,Technology,Copiers,USB Hub,4,735.61,0.15,156.44
+ORD-00777,2023-09-17,Consumer,Central,Georgia,New York City,Technology,Accessories,Laser Printer,5,1010.69,0.1,187.79
+ORD-00778,2023-03-30,Corporate,Central,Ohio,Los Angeles,Technology,Phones,USB Hub,3,971.35,0.15,203.64
+ORD-00779,2023-07-29,Home Office,South,Ohio,Atlanta,Furniture,Furnishings,Office Chair,8,778.66,0.3,75.13
+ORD-00780,2025-11-04,Home Office,South,New York,Seattle,Furniture,Bookcases,Desk Lamp,8,1114.64,0.1,104.95
+ORD-00781,2023-09-16,Home Office,East,Florida,Los Angeles,Office Supplies,Binders,Address Labels,4,881.95,0.0,137.8
+ORD-00782,2025-02-20,Corporate,Central,Illinois,Chicago,Furniture,Furnishings,Office Chair,8,92.76,0.0,16.46
+ORD-00783,2025-04-01,Home Office,Central,Illinois,Columbus,Technology,Machines,Smartphone,10,127.12,0.3,-8.52
+ORD-00784,2025-11-11,Home Office,South,Texas,Miami,Furniture,Chairs,Office Chair,2,226.79,0.0,33.49
+ORD-00785,2025-06-16,Corporate,South,Georgia,Los Angeles,Technology,Copiers,Photocopier,6,854.52,0.1,152.29
+ORD-00786,2025-03-03,Corporate,South,Georgia,New York City,Furniture,Furnishings,Conference Table,4,1117.62,0.05,216.13
+ORD-00787,2023-06-19,Consumer,South,Florida,Columbus,Furniture,Furnishings,Office Chair,6,1442.85,0.15,234.59
+ORD-00788,2024-06-12,Home Office,West,Illinois,Los Angeles,Furniture,Bookcases,Wooden Bookcase,2,438.16,0.05,22.22
+ORD-00789,2024-04-11,Corporate,Central,Georgia,Chicago,Office Supplies,Labels,Ring Binder,5,1208.89,0.2,125.29
+ORD-00790,2023-10-29,Corporate,South,Georgia,Seattle,Furniture,Furnishings,Desk Lamp,6,760.44,0.15,80.14
+ORD-00791,2025-01-08,Consumer,South,New York,Miami,Furniture,Furnishings,Conference Table,6,1286.62,0.15,74.25
+ORD-00792,2023-11-21,Home Office,Central,Texas,Chicago,Technology,Copiers,USB Hub,5,1486.25,0.0,247.44
+ORD-00793,2023-08-05,Consumer,South,Florida,Houston,Office Supplies,Binders,Ring Binder,8,556.51,0.1,84.0
+ORD-00794,2025-05-23,Home Office,Central,Texas,Seattle,Technology,Machines,Wireless Keyboard,6,688.43,0.2,147.01
+ORD-00795,2025-06-18,Corporate,West,Georgia,Miami,Furniture,Furnishings,Office Chair,6,1317.31,0.0,203.92
+ORD-00796,2025-06-16,Consumer,East,New York,Houston,Office Supplies,Binders,Ring Binder,8,1234.69,0.15,233.78
+ORD-00797,2023-09-28,Consumer,Central,Ohio,Houston,Technology,Phones,Photocopier,8,778.2,0.0,141.11
+ORD-00798,2024-03-03,Corporate,South,Texas,Seattle,Furniture,Bookcases,Wooden Bookcase,9,488.24,0.3,6.19
+ORD-00799,2023-02-10,Home Office,West,Georgia,New York City,Technology,Phones,Wireless Keyboard,8,1340.27,0.1,177.37
+ORD-00800,2025-11-06,Corporate,West,Ohio,Columbus,Office Supplies,Art,Ring Binder,8,1333.97,0.0,319.1
+ORD-00801,2025-01-28,Consumer,West,Ohio,Atlanta,Technology,Accessories,USB Hub,3,673.47,0.1,134.64
+ORD-00802,2024-08-31,Corporate,Central,Florida,New York City,Furniture,Furnishings,Wooden Bookcase,3,1176.9,0.2,159.61
+ORD-00803,2023-08-23,Home Office,Central,Washington,Seattle,Furniture,Furnishings,Desk Lamp,8,631.11,0.1,32.33
+ORD-00804,2024-01-31,Consumer,South,Illinois,,Furniture,Chairs,Conference Table,6,137.79,0.3,-6.62
+ORD-00805,2025-10-16,Consumer,West,Ohio,Miami,Technology,Phones,Smartphone,8,75.28,0.1,3.65
+ORD-00806,2025-07-01,Corporate,West,Georgia,Seattle,Furniture,Tables,Wooden Bookcase,1,1358.48,0.3,176.16
+ORD-00807,2024-01-02,Corporate,West,New York,Seattle,Technology,Phones,Wireless Keyboard,8,1181.39,0.2,179.78
+ORD-00808,2025-01-25,Consumer,East,Ohio,Seattle,Technology,Accessories,Laser Printer,7,713.32,0.1,23.81
+ORD-00809,2025-01-03,Home Office,South,Texas,Chicago,Office Supplies,Labels,Copy Paper,3,403.64,0.0,23.51
+ORD-00810,2023-05-07,Consumer,Central,California,Houston,Furniture,Chairs,Office Chair,5,332.29,0.15,17.49
+ORD-00811,2024-07-06,Consumer,South,Illinois,Columbus,Office Supplies,Labels,Address Labels,6,1371.68,0.15,125.76
+ORD-00812,2023-07-31,Corporate,West,Washington,Los Angeles,Technology,Copiers,Laser Printer,9,1086.0,0.15,-13.22
+ORD-00813,2024-05-28,Consumer,West,Georgia,Miami,Furniture,Bookcases,Desk Lamp,8,1017.53,0.0,208.35
+ORD-00814,2024-05-06,Corporate,East,Washington,Columbus,Technology,Copiers,Wireless Keyboard,5,325.17,0.0,41.42
+ORD-00815,2023-05-05,Consumer,East,Texas,Chicago,Furniture,Furnishings,Wooden Bookcase,8,1236.04,0.0,235.48
+ORD-00816,2023-03-23,Home Office,South,Illinois,Columbus,Furniture,Chairs,Office Chair,8,1285.56,0.05,314.07
+ORD-00817,2023-03-03,Consumer,South,New York,Miami,Office Supplies,Paper,Copy Paper,5,1067.13,0.0,266.94
+ORD-00818,2023-01-01,Home Office,Central,Georgia,Seattle,Furniture,Bookcases,Office Chair,3,517.74,0.0,83.12
+ORD-00819,2025-11-10,Home Office,West,Ohio,Seattle,Technology,Copiers,Photocopier,5,246.64,0.0,25.84
+ORD-00820,2023-11-15,Corporate,East,California,Houston,Office Supplies,Paper,Storage Box,7,438.1,0.1,79.45
+ORD-00821,2023-10-19,Consumer,South,New York,Los Angeles,Office Supplies,Labels,Ring Binder,9,1030.94,0.15,205.07
+ORD-00822,2024-02-14,Consumer,West,Florida,Columbus,Office Supplies,Art,Address Labels,8,1359.88,0.0,127.75
+ORD-00823,2025-01-16,Corporate,East,Texas,Miami,Furniture,Furnishings,Wooden Bookcase,4,1367.75,0.3,121.46
+ORD-00824,2024-03-02,Corporate,East,Texas,Atlanta,Office Supplies,Labels,Copy Paper,10,1001.78,0.1,68.07
+ORD-00825,2024-08-19,Consumer,West,Texas,Seattle,Technology,Copiers,Smartphone,7,989.31,0.05,41.43
+ORD-00826,2023-07-23,Consumer,West,New York,Houston,Office Supplies,Binders,Address Labels,2,850.5,0.1,182.99
+ORD-00827,2023-05-18,Home Office,Central,Illinois,Columbus,Technology,Copiers,USB Hub,10,634.93,0.1,13.19
+ORD-00828,2025-04-10,Home Office,South,New York,Atlanta,Furniture,Tables,Conference Table,9,377.57,0.15,4.94
+ORD-00829,2023-06-20,Corporate,East,Texas,Miami,Technology,Copiers,Laser Printer,5,730.53,0.1,116.28
+ORD-00830,2023-10-09,Corporate,Central,New York,Los Angeles,Office Supplies,Storage,Storage Box,8,375.66,0.15,64.07
+ORD-00831,2023-09-06,Home Office,Central,Georgia,Los Angeles,Furniture,Bookcases,Wooden Bookcase,3,351.25,0.05,91.27
+ORD-00832,2025-04-17,Home Office,East,Florida,Houston,Furniture,Chairs,Office Chair,1,1048.89,0.0,108.11
+ORD-00833,2025-06-09,Corporate,West,Georgia,New York City,Furniture,Chairs,Desk Lamp,3,1397.73,0.0,200.49
+ORD-00834,2023-09-23,Home Office,South,California,Houston,Furniture,Furnishings,Office Chair,4,1471.86,0.3,171.95
+ORD-00835,2024-07-23,Corporate,South,Florida,Chicago,Office Supplies,Storage,Copy Paper,6,261.41,0.0,33.62
+ORD-00836,2024-01-25,Home Office,South,Washington,Columbus,Furniture,Tables,Wooden Bookcase,4,320.43,0.1,62.09
+ORD-00837,2025-02-24,Corporate,East,Illinois,Columbus,Office Supplies,Labels,Storage Box,3,1071.06,0.15,10.43
+ORD-00838,2025-03-13,Home Office,Central,Illinois,Chicago,Office Supplies,Labels,Storage Box,4,1190.46,0.2,207.49
+ORD-00839,2024-06-03,Home Office,West,Georgia,Los Angeles,Furniture,Furnishings,Conference Table,5,146.69,0.0,32.92
+ORD-00840,2025-11-18,Consumer,South,Florida,Miami,Technology,Machines,Wireless Keyboard,10,1330.84,0.15,93.28
+ORD-00841,2025-11-08,Consumer,Central,Texas,Chicago,Furniture,Chairs,Office Chair,7,1219.34,0.2,-37.79
+ORD-00842,2024-11-06,Corporate,South,Illinois,Houston,Office Supplies,Labels,Marker Set,8,300.25,0.2,48.57
+ORD-00843,2023-05-17,Corporate,Central,Illinois,Seattle,Office Supplies,Paper,Copy Paper,6,337.98,0.0,32.53
+ORD-00844,2024-10-14,Home Office,South,Washington,Houston,Technology,Copiers,Laser Printer,10,915.55,0.05,84.25
+ORD-00845,2024-01-17,Home Office,South,New York,Miami,Technology,Accessories,Photocopier,8,324.99,0.1,4.45
+ORD-00846,2025-08-23,Corporate,South,Washington,Columbus,Furniture,Furnishings,Desk Lamp,5,1208.55,0.1,238.83
+ORD-00847,2025-03-26,Home Office,Central,California,,Technology,Phones,Wireless Keyboard,7,38.39,0.2,-1.26
+ORD-00848,2023-09-13,Home Office,Central,Ohio,Atlanta,Technology,Accessories,Photocopier,1,312.02,0.05,30.13
+ORD-00849,2025-08-05,Consumer,Central,Georgia,Atlanta,Office Supplies,Storage,Ring Binder,6,946.74,0.15,106.12
+ORD-00850,2023-11-04,Consumer,East,New York,Los Angeles,Furniture,Tables,Wooden Bookcase,9,1120.45,0.1,135.27
+ORD-00851,2025-12-04,Corporate,South,Georgia,New York City,Technology,Copiers,Laser Printer,8,1001.1,0.2,40.22
+ORD-00852,2025-06-20,Consumer,South,Ohio,Seattle,Furniture,Chairs,Desk Lamp,8,1439.67,0.15,235.34
+ORD-00853,2024-03-13,Consumer,West,Georgia,Seattle,Office Supplies,Storage,Address Labels,10,1277.98,0.2,36.7
+ORD-00854,2025-01-24,Corporate,East,Washington,Miami,Office Supplies,Labels,Address Labels,3,689.23,0.0,42.06
+ORD-00855,2024-08-30,Corporate,South,Georgia,Chicago,Technology,Copiers,Smartphone,10,37.06,0.0,4.49
+ORD-00856,2023-01-11,Home Office,West,California,Chicago,Furniture,Chairs,Desk Lamp,5,114.78,0.2,25.99
+ORD-00857,2024-07-10,Corporate,West,Washington,Seattle,Technology,Copiers,Laser Printer,9,823.53,0.05,142.99
+ORD-00858,2024-03-15,Consumer,South,Washington,Atlanta,Office Supplies,Binders,Copy Paper,8,1113.64,0.0,271.7
+ORD-00859,2024-05-17,Corporate,South,Georgia,Los Angeles,Furniture,Bookcases,Office Chair,5,393.94,0.1,57.08
+ORD-00860,2023-08-20,Consumer,East,Georgia,Miami,Office Supplies,Binders,Marker Set,10,793.41,0.2,21.11
+ORD-00861,2023-12-13,Consumer,Central,Georgia,Seattle,Furniture,Chairs,Desk Lamp,5,155.39,0.1,13.08
+ORD-00862,2023-06-04,Corporate,West,Illinois,Chicago,Furniture,Furnishings,Office Chair,1,1467.43,0.3,179.42
+ORD-00863,2025-08-27,Corporate,South,Washington,Seattle,Furniture,Bookcases,Desk Lamp,6,246.98,0.15,-2.38
+ORD-00864,2025-08-09,Home Office,Central,New York,Houston,Office Supplies,Labels,Ring Binder,7,1038.29,0.05,82.14
+ORD-00865,2025-04-23,Home Office,South,Illinois,Chicago,Office Supplies,Storage,Marker Set,7,252.01,0.1,40.95
+ORD-00866,2024-10-16,Consumer,Central,Washington,Chicago,Furniture,Bookcases,Desk Lamp,5,597.22,0.1,98.6
+ORD-00867,2025-07-04,Consumer,Central,Florida,Houston,Furniture,Tables,Desk Lamp,5,208.81,0.2,27.83
+ORD-00868,2023-12-29,Home Office,Central,Florida,Atlanta,Technology,Accessories,Photocopier,1,631.53,0.1,121.85
+ORD-00869,2023-02-21,Consumer,South,Illinois,Los Angeles,Technology,Copiers,Laser Printer,9,991.1,0.2,86.63
+ORD-00870,2025-01-01,Consumer,Central,New York,Seattle,Office Supplies,Art,Address Labels,9,593.89,0.05,50.63
+ORD-00871,2023-07-31,Consumer,Central,Texas,Miami,Furniture,Tables,Wooden Bookcase,10,254.78,0.05,17.55
+ORD-00872,2023-01-15,Consumer,South,Texas,Los Angeles,Furniture,Bookcases,Wooden Bookcase,3,1274.09,0.0,181.77
+ORD-00873,2025-12-24,Consumer,South,Illinois,Los Angeles,Technology,Phones,Laser Printer,3,22.01,0.1,3.79
+ORD-00874,2023-11-26,Consumer,South,New York,Los Angeles,Furniture,Furnishings,Conference Table,4,567.07,0.05,72.65
+ORD-00875,2024-11-16,Home Office,East,New York,Chicago,Technology,Accessories,Photocopier,5,171.29,0.2,11.19
+ORD-00876,2025-04-07,Consumer,East,Georgia,Chicago,Office Supplies,Art,Marker Set,10,439.52,,76.24
+ORD-00877,2024-12-07,Home Office,Central,Ohio,New York City,Furniture,Tables,Desk Lamp,3,696.4,0.15,77.96
+ORD-00878,2023-04-08,Consumer,West,Illinois,Los Angeles,Furniture,Furnishings,Office Chair,8,671.38,0.0,144.53
+ORD-00879,2023-06-11,Corporate,East,Florida,Miami,Technology,Copiers,Laser Printer,9,684.39,0.1,54.08
+ORD-00880,2025-08-06,Home Office,South,Ohio,New York City,Furniture,Tables,Wooden Bookcase,4,1398.06,0.3,-3.84
+ORD-00881,2023-06-24,Corporate,East,New York,Miami,Technology,Machines,Wireless Keyboard,4,827.94,0.0,73.84
+ORD-00882,2023-01-20,Home Office,West,New York,Chicago,Technology,Copiers,Smartphone,1,518.64,0.1,56.14
+ORD-00883,2025-06-26,Consumer,Central,Florida,Houston,Furniture,Bookcases,Conference Table,2,37.86,0.1,4.97
+ORD-00884,2025-08-10,Corporate,Central,Texas,Columbus,Technology,Phones,Photocopier,1,408.7,0.1,76.01
+ORD-00885,2024-07-13,Corporate,East,Florida,Miami,Office Supplies,Storage,Address Labels,5,1119.23,0.2,46.48
+ORD-00886,2025-06-16,Consumer,West,California,Atlanta,Furniture,Furnishings,Office Chair,1,1415.05,0.2,151.14
+ORD-00887,2024-03-23,Corporate,Central,New York,Atlanta,Office Supplies,Art,Storage Box,4,591.07,0.3,57.9
+ORD-00888,2024-06-10,Corporate,West,New York,Seattle,Furniture,Chairs,Wooden Bookcase,2,1106.43,0.0,212.45
+ORD-00889,2025-08-17,Consumer,South,New York,Houston,Furniture,Bookcases,Office Chair,6,1170.4,0.2,107.39
+ORD-00890,2025-07-10,Consumer,East,Florida,Seattle,Office Supplies,Binders,Address Labels,6,123.77,0.0,13.62
+ORD-00891,2025-10-26,Home Office,East,Ohio,Miami,Technology,Phones,Laser Printer,5,521.96,0.0,59.54
+ORD-00892,2024-06-24,Consumer,West,Texas,Chicago,Technology,Accessories,Photocopier,3,689.37,0.0,53.03
+ORD-00893,2025-01-31,Corporate,Central,Georgia,Los Angeles,Technology,Copiers,Wireless Keyboard,4,498.76,0.0,82.33
+ORD-00894,2024-09-06,Corporate,South,Florida,Atlanta,Office Supplies,Labels,Address Labels,2,837.2,0.2,61.1
+ORD-00895,2024-08-14,Home Office,West,Georgia,Chicago,Furniture,Furnishings,Conference Table,7,1271.7,0.05,226.15
+ORD-00896,2024-06-19,Home Office,South,Georgia,Atlanta,Furniture,Bookcases,Desk Lamp,6,466.2,0.3,75.14
+ORD-00897,2025-06-14,Consumer,Central,Ohio,Atlanta,Technology,Copiers,USB Hub,3,627.84,0.15,51.41
+ORD-00898,2024-04-22,Consumer,Central,Georgia,Columbus,Technology,Copiers,USB Hub,9,142.35,0.0,13.19
+ORD-00899,2025-11-02,Corporate,East,Illinois,Los Angeles,Office Supplies,Binders,Address Labels,7,233.37,0.3,-6.49
+ORD-00900,2025-08-24,Corporate,West,Ohio,Los Angeles,Furniture,Bookcases,Wooden Bookcase,10,1256.64,0.2,184.98
+ORD-00901,2025-05-04,Consumer,South,Florida,Chicago,Furniture,Bookcases,Desk Lamp,2,1377.31,0.0,281.59
+ORD-00902,2023-10-30,Corporate,South,New York,Seattle,Technology,Accessories,Laser Printer,1,1401.17,0.3,207.78
+ORD-00903,2024-02-22,Corporate,South,Florida,Atlanta,Office Supplies,Art,Ring Binder,8,750.89,0.0,61.73
+ORD-00904,2024-01-06,Corporate,South,Florida,Los Angeles,Office Supplies,Binders,Address Labels,8,185.14,0.0,27.49
+ORD-00905,2023-01-13,Consumer,Central,Illinois,Atlanta,Office Supplies,Paper,Ring Binder,3,183.52,0.2,28.94
+ORD-00906,2025-09-11,Corporate,Central,Texas,Seattle,Furniture,Tables,Wooden Bookcase,7,548.21,0.0,80.48
+ORD-00907,2024-06-29,Consumer,West,Georgia,Chicago,Office Supplies,Paper,Marker Set,4,597.3,0.2,127.45
+ORD-00908,2023-03-25,Corporate,South,Illinois,Miami,Technology,Machines,USB Hub,1,426.33,0.2,-10.77
+ORD-00909,2024-03-23,Consumer,East,Texas,Columbus,Furniture,Chairs,Desk Lamp,2,524.51,0.2,5.42
+ORD-00910,2025-09-07,Consumer,Central,California,Chicago,Technology,Accessories,USB Hub,9,1109.69,0.1,54.96
+ORD-00911,2024-05-06,Consumer,East,Ohio,Chicago,Furniture,Bookcases,Office Chair,4,975.19,0.15,98.49
+ORD-00912,2025-11-01,Home Office,West,Texas,New York City,Furniture,Chairs,Desk Lamp,3,1415.06,0.2,198.04
+ORD-00913,2025-04-23,Home Office,West,Washington,Miami,Technology,Copiers,USB Hub,5,264.75,0.3,-25.14
+ORD-00914,2024-12-19,Consumer,West,Illinois,Los Angeles,Furniture,Tables,Wooden Bookcase,2,847.6,0.1,105.48
+ORD-00915,2025-09-19,Consumer,East,Georgia,Columbus,Furniture,Bookcases,Office Chair,1,395.12,0.0,29.19
+ORD-00916,2025-12-27,Home Office,South,New York,New York City,Office Supplies,Storage,Copy Paper,4,169.87,0.2,11.2
+ORD-00917,2024-06-14,Corporate,West,Texas,Houston,Office Supplies,Labels,Copy Paper,9,52.17,0.1,5.28
+ORD-00918,2023-09-21,Corporate,East,California,Atlanta,Office Supplies,Labels,Marker Set,5,1464.58,0.05,218.45
+ORD-00919,2025-03-26,Corporate,West,Texas,Houston,Office Supplies,Labels,Marker Set,7,185.16,0.2,42.6
+ORD-00920,2024-08-21,Corporate,East,Washington,,Furniture,Tables,Desk Lamp,3,1385.3,0.2,234.05
+ORD-00921,2025-10-15,Home Office,East,Illinois,Miami,Technology,Accessories,Wireless Keyboard,9,1289.34,0.05,207.16
+ORD-00922,2025-05-04,Home Office,West,Florida,Seattle,Technology,Copiers,Wireless Keyboard,6,715.37,0.05,150.52
+ORD-00923,2024-10-01,Home Office,East,Illinois,Miami,Furniture,Chairs,Office Chair,2,171.07,0.15,38.83
+ORD-00924,2023-04-30,Corporate,South,Ohio,Miami,Furniture,Bookcases,Desk Lamp,6,1192.16,0.05,245.98
+ORD-00925,2024-09-12,Consumer,Central,Ohio,Chicago,Office Supplies,Binders,Address Labels,7,1062.44,0.2,85.81
+ORD-00926,2023-09-10,Home Office,South,New York,Atlanta,Technology,Copiers,Photocopier,1,1322.77,0.3,155.44
+ORD-00927,2025-07-07,Consumer,Central,California,Miami,Technology,Accessories,Photocopier,4,393.37,0.1,78.4
+ORD-00928,2025-05-23,Corporate,West,Florida,,Furniture,Bookcases,Conference Table,5,66.42,0.0,12.99
+ORD-00929,2025-07-26,Home Office,Central,Texas,Houston,Office Supplies,Binders,Address Labels,2,219.48,0.1,15.93
+ORD-00930,2023-07-20,Corporate,Central,Florida,Chicago,Office Supplies,Labels,Ring Binder,6,964.14,0.2,18.1
+ORD-00931,2023-12-31,Consumer,South,New York,Atlanta,Furniture,Tables,Office Chair,5,413.52,0.1,3.49
+ORD-00932,2023-11-03,Home Office,South,Illinois,Houston,Furniture,Chairs,Desk Lamp,8,32.68,0.0,3.07
+ORD-00933,2024-06-08,Home Office,Central,Ohio,Atlanta,Office Supplies,Binders,Copy Paper,5,480.03,0.3,67.6
+ORD-00934,2023-09-05,Corporate,West,California,Columbus,Technology,Copiers,Wireless Keyboard,4,246.5,0.1,22.48
+ORD-00935,2025-02-25,Home Office,Central,Ohio,Houston,Office Supplies,Storage,Ring Binder,3,882.87,0.3,200.42
+ORD-00936,2025-04-30,Home Office,West,Ohio,Atlanta,Technology,Machines,Laser Printer,6,1272.9,0.0,90.88
+ORD-00937,2025-07-27,Home Office,West,Ohio,New York City,Furniture,Chairs,Desk Lamp,6,683.58,0.05,48.0
+ORD-00938,2025-02-26,Corporate,East,Georgia,New York City,Technology,Copiers,Laser Printer,5,633.43,0.0,154.2
+ORD-00939,2024-07-02,Corporate,South,Florida,Chicago,Furniture,Tables,Conference Table,5,810.89,0.2,41.13
+ORD-00940,2023-12-26,Corporate,South,Ohio,New York City,Technology,Copiers,USB Hub,6,397.11,0.2,38.48
+ORD-00941,2025-12-09,Consumer,South,Georgia,Chicago,Furniture,Furnishings,Wooden Bookcase,10,1022.65,0.2,75.74
+ORD-00942,2024-04-28,Home Office,West,Georgia,Los Angeles,Furniture,Furnishings,Desk Lamp,6,1241.48,0.2,199.77
+ORD-00943,2025-01-09,Home Office,West,Georgia,Houston,Furniture,Tables,Desk Lamp,2,777.79,0.1,105.44
+ORD-00944,2023-03-08,Corporate,Central,Illinois,Columbus,Technology,Accessories,Smartphone,4,59.05,0.2,3.27
+ORD-00945,2024-06-12,Corporate,West,Texas,Houston,Furniture,Tables,Desk Lamp,7,540.01,0.05,58.19
+ORD-00946,2025-10-28,Home Office,West,Illinois,New York City,Furniture,Tables,Desk Lamp,4,330.3,0.2,42.56
+ORD-00947,2023-07-26,Home Office,West,Ohio,New York City,Technology,Accessories,Smartphone,1,672.98,0.15,72.71
+ORD-00948,2024-03-18,Consumer,East,Ohio,New York City,Furniture,Tables,Conference Table,9,718.73,0.05,63.0
+ORD-00949,2023-08-06,Home Office,East,Georgia,New York City,Furniture,Chairs,Office Chair,8,1317.1,0.0,89.56
+ORD-00950,2023-01-25,Home Office,Central,Texas,New York City,Technology,Copiers,Wireless Keyboard,6,1069.76,0.0,70.56
+ORD-00951,2023-06-17,Home Office,West,Florida,Atlanta,Office Supplies,Labels,Copy Paper,10,94.1,0.2,2.14
+ORD-00952,2023-02-18,Home Office,East,Illinois,Miami,Technology,Machines,Laser Printer,3,464.97,0.1,46.37
+ORD-00953,2023-06-30,Home Office,Central,Texas,Houston,Technology,Copiers,Laser Printer,5,1085.15,0.0,212.44
+ORD-00954,2024-03-01,Home Office,West,Georgia,Seattle,Office Supplies,Storage,Ring Binder,3,455.13,0.1,45.9
+ORD-00955,2023-11-06,Corporate,West,Illinois,Seattle,Office Supplies,Binders,Address Labels,9,97.91,0.0,11.77
+ORD-00956,2025-03-23,Corporate,West,Ohio,Columbus,Furniture,Bookcases,Conference Table,7,1388.04,0.1,213.77
+ORD-00957,2024-01-24,Corporate,West,New York,Chicago,Office Supplies,Binders,Address Labels,2,1388.5,0.05,239.09
+ORD-00958,2025-03-26,Corporate,West,Georgia,Miami,Furniture,Tables,Office Chair,6,174.63,0.0,23.99
+ORD-00959,2024-01-12,Consumer,West,Texas,Houston,Technology,Copiers,Smartphone,4,1333.59,0.05,182.51
+ORD-00960,2023-10-16,Home Office,Central,Washington,Chicago,Furniture,Furnishings,Conference Table,2,1031.88,0.0,226.19
+ORD-00961,2024-05-23,Consumer,South,Illinois,Miami,Furniture,Chairs,Conference Table,7,488.93,0.15,24.53
+ORD-00962,2023-09-22,Consumer,West,Washington,New York City,Office Supplies,Storage,Address Labels,2,176.81,0.0,20.68
+ORD-00963,2023-01-16,Consumer,East,Washington,Seattle,Furniture,Furnishings,Wooden Bookcase,5,557.72,0.1,18.16
+ORD-00964,2024-09-10,Home Office,East,Illinois,Los Angeles,Office Supplies,Art,Storage Box,7,707.79,0.15,-10.21
+ORD-00965,2023-03-19,Home Office,Central,Ohio,Columbus,Office Supplies,Art,Ring Binder,2,78.33,0.1,0.49
+ORD-00966,2025-11-18,Corporate,Central,Illinois,New York City,Technology,Accessories,Smartphone,2,803.56,0.05,83.47
+ORD-00967,2024-07-09,Consumer,East,Illinois,Houston,Technology,Copiers,Laser Printer,2,1483.54,0.3,-151.33
+ORD-00968,2024-08-09,Home Office,South,Georgia,Los Angeles,Furniture,Chairs,Wooden Bookcase,9,1012.64,0.15,46.8
+ORD-00969,2024-04-18,Home Office,West,Ohio,Houston,Technology,Machines,Photocopier,10,1243.82,0.0,263.57
+ORD-00970,2023-05-13,Corporate,Central,California,Houston,Office Supplies,Paper,Address Labels,2,888.49,0.2,-19.94
+ORD-00971,2024-02-14,Consumer,South,Florida,Houston,Furniture,Tables,Conference Table,10,1268.03,0.1,86.26
+ORD-00972,2023-05-26,Corporate,South,Florida,Atlanta,Technology,Accessories,Smartphone,1,393.36,0.0,105.88
+ORD-00973,2023-01-27,Corporate,Central,Illinois,Houston,Technology,Phones,Laser Printer,6,693.42,0.2,95.11
+ORD-00974,2024-01-13,Corporate,East,Illinois,Seattle,Office Supplies,Paper,Ring Binder,5,527.81,0.0,74.77
+ORD-00975,2025-07-25,Consumer,East,Texas,Seattle,Technology,Copiers,USB Hub,5,1245.19,0.0,132.09
+ORD-00976,2025-11-16,Home Office,Central,Florida,Seattle,Furniture,Chairs,Desk Lamp,1,1278.4,0.15,114.32
+ORD-00977,2024-06-08,Consumer,East,Washington,New York City,Technology,Copiers,USB Hub,5,591.94,0.05,94.79
+ORD-00978,2025-09-01,Consumer,West,New York,Atlanta,Technology,Copiers,USB Hub,2,1003.92,0.05,67.61
+ORD-00979,2023-10-23,Consumer,West,Texas,New York City,Furniture,Tables,Wooden Bookcase,10,158.33,0.1,8.95
+ORD-00980,2025-03-01,Consumer,South,Illinois,Chicago,Technology,Phones,USB Hub,1,259.61,0.0,26.41
+ORD-00981,2025-11-10,Home Office,West,Washington,Houston,Office Supplies,Paper,Address Labels,9,397.41,0.05,18.44
+ORD-00982,2024-08-27,Corporate,West,New York,Los Angeles,Office Supplies,Paper,Address Labels,3,693.87,0.15,77.88
+ORD-00983,2025-12-30,Corporate,East,Washington,Miami,Furniture,Furnishings,Desk Lamp,4,506.8,0.1,15.13
+ORD-00984,2023-06-24,Corporate,East,Texas,Atlanta,Furniture,Bookcases,Conference Table,3,34.91,0.05,1.87
+ORD-00985,2025-01-16,Home Office,East,New York,New York City,Technology,Accessories,USB Hub,1,1217.37,0.2,9.6
+ORD-00986,2025-04-23,Corporate,East,Ohio,Atlanta,Technology,Machines,USB Hub,1,1300.29,0.1,79.98
+ORD-00987,2025-05-18,Corporate,West,Texas,Chicago,Furniture,Tables,Desk Lamp,6,338.33,0.05,22.35
+ORD-00988,2024-01-13,Consumer,East,Texas,Atlanta,Office Supplies,Labels,Address Labels,8,840.95,0.1,39.71
+ORD-00989,2023-10-02,Corporate,West,Ohio,Chicago,Technology,Machines,Photocopier,2,1095.35,0.1,178.85
+ORD-00990,2025-04-11,Consumer,West,Florida,Seattle,Technology,Copiers,Photocopier,6,1012.07,0.15,188.27
+ORD-00991,2023-07-15,Home Office,South,Texas,Miami,Office Supplies,Art,Copy Paper,6,418.85,0.0,116.48
+ORD-00992,2024-02-03,Home Office,South,Washington,Los Angeles,Furniture,Chairs,Office Chair,2,546.0,0.2,-19.25
+ORD-00993,2024-09-20,Consumer,Central,New York,Houston,Technology,Machines,Wireless Keyboard,8,1194.88,0.1,136.06
+ORD-00994,2025-04-05,Consumer,West,California,Chicago,Furniture,Furnishings,Wooden Bookcase,4,1408.07,0.1,298.89
+ORD-00995,2023-06-15,Consumer,Central,California,Los Angeles,Technology,Copiers,Smartphone,1,1402.37,0.05,98.61
+ORD-00996,2023-07-15,Consumer,West,Texas,Columbus,Furniture,Tables,Desk Lamp,9,1188.72,0.15,124.6
+ORD-00997,2024-10-01,Home Office,West,Ohio,Houston,Technology,Phones,Photocopier,10,1319.15,0.2,-19.89
+ORD-00998,2023-09-29,Corporate,East,Illinois,Columbus,Office Supplies,Art,Address Labels,3,1470.38,0.2,180.0
+ORD-00999,2024-05-31,Consumer,West,Washington,Seattle,Furniture,Furnishings,Conference Table,10,1376.3,0.0,117.97
+ORD-01000,2023-06-23,Home Office,West,Georgia,New York City,Furniture,Tables,Desk Lamp,4,1238.55,0.15,192.66
+ORD-00006,2024-03-31,Home Office,East,Washington,Atlanta,Office Supplies,Paper,Marker Set,7,790.83,0.3,80.78
+ORD-00026,2025-05-03,Corporate,West,Ohio,Atlanta,Office Supplies,Paper,Storage Box,7,227.32,0.1,46.55
+ORD-00101,2025-03-27,Home Office,Central,Florida,New York City,Office Supplies,Art,Storage Box,1,1426.35,0.1,79.14
